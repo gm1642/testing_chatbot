@@ -21,7 +21,7 @@ services:
     depends_on:
       - weaviate
       - ollama
-    # network_mode: host
+    network_mode: host
 
   ollama:
     image: ollama/ollama:latest
@@ -29,7 +29,7 @@ services:
       - ollama:/root/.ollama
     ports:
       - "11434:11434"
-    command: serve # This will allow you to override it later with the external command
+    command: serve 
 
 volumes:
   weaviate_data:

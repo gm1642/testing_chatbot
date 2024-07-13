@@ -2,7 +2,7 @@ import gradio as gr
 import ollama
 import weaviate
 
-client = weaviate.Client("http://weaviate:8080")
+client = weaviate.Client("http://localhost:8080")
 
 def retrieve_and_format_solution(question_prompt):
     try:
