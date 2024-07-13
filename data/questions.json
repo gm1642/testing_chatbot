@@ -1,0 +1,29 @@
+[
+    {
+        "question_id": "2021-063",
+        "year": 2021,
+        "subject": "Communication",
+        "question_text": "Consider a channel over which either symbol $x_{A}$ or symbol $x_{B}$ is transmitted. Let the output of the channel $Y$ be the input to a maximum likelihood (ML) detector at the receiver. The conditional probability density functions for $Y$ given $x_{A}$ and $x_{B}$ are: ...",
+        "question_image": null,
+        "solution_text": "Here source is transmitting two symbols $X_{A}$ \\& $X_{B}$. [image1] $f_{y / x_{A}}(y)=e^{-(y+1)} u(y+1)$ $f_{y / x_{B}}(y)=e^{(y-1)}[1-u(x-1)]$ [image2] Calculation $\\mathrm{V}_{\\text {th }}$ optimum $\\left.f_{Y / X_{A}}(Y)\\right|_{Y=V_{t h}}=\\left.f_{Y / X_{B}}(y)\\right|_{Y=V_{\\text {th }}} e^{-\\left(v_{\\text {th }}+1\\right)}=e^{v_{\\text {th }}-1} \\Rightarrow V_{t h}=0$",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7e9c1add78af876ebfb4g-08.jpg?height=123&width=428&top_left_y=444&top_left_x=1271",
+            "https://cdn.mathpix.com/cropped/2024_07_05_7e9c1add78af876ebfb4g-08.jpg?height=214&width=761&top_left_y=787&top_left_x=1110"
+        ],
+        "tags": ["channel", "symbol error", "maximum likelihood"],
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "2021-064",
+        "year": 2021,
+        "subject": "Geometry",
+        "question_text": "A trapezium has vertices marked as $\\mathrm{P}, \\mathrm{Q}, \\mathrm{R}$ and $\\mathrm{S}$ (in that order anticlockwise). The side $\\mathrm{PQ}$ is parallel to side $\\mathrm{SR}$. Further, it is given that, $\\mathrm{PQ}=11 \\mathrm{~cm}, \\mathrm{QR}=4$ $\\mathrm{cm}, \\mathrm{RS}=6 \\mathrm{~cm}$ and $\\mathrm{SP}=3 \\mathrm{~cm}$. What is the shortest distance between $\\mathrm{PQ}$ and $\\mathrm{SR}$ (in $\\mathrm{cm}$ )? (a) 1.80 (b) 2.40 (c) 4.20 (d) 5.76",
+        "question_image": null,
+        "solution_text": "(b)\n\n![](https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-1.jpg?height=442&width=682&top_left_y=2246&top_left_x=273)\n\n$$\n\\begin{aligned}\n& =\\frac{1}{2} \\times B \\times 4 \\quad H \\rightarrow \\text { Height } \\\\\n& =\\frac{1}{2} \\times 3 \\times 4 \\\\\n& =6 \\mathrm{~cm}^{2} \\\\\n\\frac{1}{2} \\times 5 \\times \\mathrm{RT} & =6 \\mathrm{~cm}^{2} \\\\\n\\text { RT } & =2.4 \\mathrm{~cm}\n\\end{aligned}\n$$",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-1.jpg?height=442&width=682&top_left_y=2246&top_left_x=273"
+        ],
+        "tags": ["geometry", "trapezium", "distance calculation"],
+        "difficulty": "medium"
+    }
+]

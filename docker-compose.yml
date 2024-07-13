@@ -1,0 +1,35 @@
+version: '3.4'
+services:
+  weaviate:
+    image: semitechnologies/weaviate:latest
+    ports:
+      - "8080:8080"
+    environment:
+      - QUERY_DEFAULTS_LIMIT=20
+      - AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED=true
+      - PERSISTENCE_DATA_PATH=/var/lib/weaviate
+    volumes:
+      - weaviate_data:/var/lib/weaviate
+
+  app:
+    build: ./app
+    volumes:
+      - ./app:/app
+      - ./data:/data
+    ports:
+      - "7860:7860"
+    depends_on:
+      - weaviate
+    network_mode: host
+
+  ollama:
+    image: ollama/ollama:latest
+    volumes:
+      - ollama:/root/.ollama
+    ports:
+      - "11434:11434"
+    command: serve # This will allow you to override it later with the external command
+
+volumes:
+  weaviate_data:
+  ollama:
