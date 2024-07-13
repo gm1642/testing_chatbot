@@ -20,6 +20,7 @@ services:
       - "7860:7860"
     depends_on:
       - weaviate
+      - ollama
     network_mode: host
 
   ollama:
