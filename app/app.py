@@ -2,7 +2,7 @@ import gradio as gr
 import ollama
 import weaviate
 
-client = weaviate.Client("http://localhost:8080")
+client = weaviate.Client("http://weaviate:8080")
 
 def retrieve_and_format_solution(question_prompt):
     try:
@@ -58,4 +58,4 @@ iface = gr.Interface(
 )
 
 if __name__ == "__main__":
-    iface.launch(server_name="0.0.0.0", server_port=7860)
+    iface.launch(server_name="0.0.0.0", server_port=7861)

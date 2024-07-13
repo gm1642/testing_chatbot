@@ -2,7 +2,7 @@ import json
 import weaviate
 import ollama
 
-client = weaviate.Client("http://localhost:8080")
+client = weaviate.Client("http://weaviate:8080")
 
 with open('/data/questions.json') as f:
     question_data = json.load(f)

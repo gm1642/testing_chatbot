@@ -1,4 +1,4 @@
-version: '3.4'
+
 services:
   weaviate:
     image: semitechnologies/weaviate:latest
@@ -17,11 +17,11 @@ services:
       - ./app:/app
       - ./data:/data
     ports:
-      - "7860:7860"
+      - "7861:7861"
     depends_on:
       - weaviate
       - ollama
-    network_mode: host
+    # network_mode: host
 
   ollama:
     image: ollama/ollama:latest
