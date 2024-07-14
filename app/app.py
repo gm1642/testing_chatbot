@@ -2,12 +2,12 @@ import gradio as gr
 import ollama
 import weaviate
 
-client = weaviate.Client("http://localhost:8080")
-
+client = weaviate.Client("http://weaviate:8080")
+client1 = ollama.Client("http://ollama:11434")
 def retrieve_and_format_solution(question_prompt):
     try:
         # Generate embedding for the user's question prompt
-        response = ollama.embeddings(
+        response = client1.embeddings(
             model="mxbai-embed-large",
             prompt=question_prompt
         )
@@ -42,7 +42,7 @@ def get_response(prompt):
         formatted_solution = retrieve_and_format_solution(prompt)
         
         # Generate a response combining the prompt and retrieved solution
-        output = ollama.generate(
+        output = client1.generate(
             model="llama2",
             prompt=f"Using this data: {formatted_solution}. Respond to this prompt: {prompt}"
         )

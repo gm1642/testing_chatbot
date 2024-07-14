@@ -2,7 +2,8 @@ import json
 import weaviate
 import ollama
 
-client = weaviate.Client("http://localhost:8080")
+client = weaviate.Client("http://weaviate:8080")
+client1 = ollama.Client("http://ollama:11434")
 
 with open('/data/questions.json') as f:
     question_data = json.load(f)
@@ -14,7 +15,7 @@ for item in question_data:
     solution_images = item["solution_image"]
 
     qa_concat = question_text + " " + solution_text
-    response = ollama.embeddings(model="mxbai-embed-large", prompt=qa_concat)
+    response = client1.embeddings(model="mxbai-embed-large", prompt=qa_concat)
     embedding = response["embedding"]
 
     client.data_object.create({

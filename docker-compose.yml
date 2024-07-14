@@ -21,7 +21,7 @@ services:
     depends_on:
       - weaviate
       - ollama
-    network_mode: host
+    # network_mode: host
 
   ollama:
     image: ollama/ollama:latest
@@ -30,6 +30,12 @@ services:
     ports:
       - "11434:11434"
     command: serve 
+    deploy:
+      resources:
+        limits:
+          memory: 10G # Adjust this value as needed
+        reservations:
+          memory: 8G # Adjust this value as needed
 
 volumes:
   weaviate_data:
