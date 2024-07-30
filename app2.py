@@ -69,7 +69,7 @@ def add_to_db(qa_pairs):
                 },
                 vector=response["embedding"]
             )
-
+add_to_db(qa_pairs)
 # Step 1: Retrieve and display the solution
 def retrieve_solution(prompt):
     response = ollama.embeddings(model="mxbai-embed-large", prompt=prompt)
