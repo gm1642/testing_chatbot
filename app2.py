@@ -13,7 +13,7 @@ with open('data/questions.json', 'r') as f:
     qa_pairs = json.load(f)
 
 # Define the collection name
-collection_name = "Death"
+collection_name = "Death1"
 
 # Create the collection if it doesn't exist
 if not client.collections.exists(collection_name):
