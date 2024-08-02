@@ -1,0 +1,11 @@
+from unstructured.partition.auto import partition
+
+elements = partition(filename="split_2914807435117167308.pdf")
+print("\n\n".join([str(el) for el in elements]))
+extracted_text = "\n\n".join([str(el) for el in elements])
+
+# Save the extracted text to a .txt file with utf-8 encoding
+with open("extracted_text.txt", "w", encoding="utf-8") as f:
+    f.write(extracted_text)
+
+print("Extracted text saved to extracted_text.txt")
