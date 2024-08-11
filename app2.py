@@ -13,7 +13,7 @@ with open('data/questions.json', 'r') as f:
     qa_pairs = json.load(f)
 
 # Define the collection name
-collection_name = "Death1"
+collection_name = "Death3"
 
 # Create the collection if it doesn't exist
 if not client.collections.exists(collection_name):
@@ -52,7 +52,7 @@ def add_to_db(qa_pairs):
             qa_concat = question_text + " " + solution_text
 
             # Generate an embedding for the concatenated string
-            response = ollama.embeddings(model="mxbai-embed-large", prompt=qa_concat)
+            response = ollama.embeddings(model="bge-large:latest ", prompt=qa_concat)
 
             # Store the data object with properties and embedding
             batch.add_object(
@@ -72,11 +72,14 @@ def add_to_db(qa_pairs):
 add_to_db(qa_pairs)
 # Step 1: Retrieve and display the solution
 def retrieve_solution(prompt):
-    response = ollama.embeddings(model="mxbai-embed-large", prompt=prompt)
+    response = ollama.embeddings(model="bge-large:latest ", prompt=prompt)
     results = collection.query.near_vector(near_vector=response["embedding"], limit=1)
     
     if results.objects:
         solution_text = results.objects[0].properties["solution_text"]
+        solution_link=results.objects[0].properties["solution_image_link"]
+        for i, img in enumerate(solution_link):
+            solution_text = solution_text.replace(f"[image{i+1}]", f"<img src='{img}' alt='Solution Image {i+1}'>")
         return solution_text
     else:
         return "No matching data found."

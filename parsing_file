@@ -1,11 +1,13 @@
-from unstructured.partition.auto import partition
+from unstructured.partition.image import partition_image
+import requests
 
-elements = partition(filename="split_2914807435117167308.pdf")
-print("\n\n".join([str(el) for el in elements]))
-extracted_text = "\n\n".join([str(el) for el in elements])
+# Use partition_image with the temporary file
+elements = partition_image("temp_img.jpg")
+import json
+from unstructured.staging.label_studio import stage_for_label_studio
 
-# Save the extracted text to a .txt file with utf-8 encoding
-with open("extracted_text.txt", "w", encoding="utf-8") as f:
-    f.write(extracted_text)
+label_studio_data = stage_for_label_studio(elements, text_field="my_text", id_field="my_id")
 
-print("Extracted text saved to extracted_text.txt")
+# The resulting JSON file is ready to be uploaded to LabelStudio
+with open("label_studio.json", "w") as f:
+    json.dump(label_studio_data, f, indent=4)
