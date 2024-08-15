@@ -2,6 +2,7 @@ import weaviate
 import ollama
 import gradio as gr
 import json
+import time
 
 # Connect to Weaviate locally
 client = weaviate.connect_to_local()
@@ -13,7 +14,7 @@ with open('data/questions.json', 'r') as f:
     qa_pairs = json.load(f)
 
 # Define the collection name
-collection_name = "Death3"
+collection_name = "bge1"
 
 # Create the collection if it doesn't exist
 if not client.collections.exists(collection_name):
@@ -52,7 +53,7 @@ def add_to_db(qa_pairs):
             qa_concat = question_text + " " + solution_text
 
             # Generate an embedding for the concatenated string
-            response = ollama.embeddings(model="bge-large:latest ", prompt=qa_concat)
+            response = ollama.embeddings(model="znbang/bge:small-en-v1.5-f32  ", prompt=qa_concat)
 
             # Store the data object with properties and embedding
             batch.add_object(
@@ -72,7 +73,7 @@ def add_to_db(qa_pairs):
 add_to_db(qa_pairs)
 # Step 1: Retrieve and display the solution
 def retrieve_solution(prompt):
-    response = ollama.embeddings(model="bge-large:latest ", prompt=prompt)
+    response = ollama.embeddings(model="znbang/bge:small-en-v1.5-f32  ", prompt=prompt)
     results = collection.query.near_vector(near_vector=response["embedding"], limit=1)
     
     if results.objects:
@@ -86,7 +87,7 @@ def retrieve_solution(prompt):
 
 # Step 2: Generate a response using the retrieved solution and user prompt
 def generate_response(retrieved_solution, user_prompt):
-    prompt = f"Using this data: {retrieved_solution}. Respond to this prompt: {user_prompt}"
+    prompt = f"Using this data: {retrieved_solution}. Respond to this prompt: {user_prompt} in few words."
     output = ollama.generate(model="phi3", prompt=prompt)
     return output['response']
 
@@ -100,7 +101,7 @@ def gradio_interface(initial_prompt, follow_up_prompt):
         return retrieved_solution, "", gr.update(visible=True), gr.update(visible=True, value="")
     else:
         # Step 2: Generate response
-        response = generate_response(retrieved_solution, follow_up_prompt)
+        response = generate_response(initial_prompt+retrieved_solution, follow_up_prompt)
         return retrieved_solution, response, gr.update(visible=False), gr.update(visible=False)
 
 iface = gr.Interface(

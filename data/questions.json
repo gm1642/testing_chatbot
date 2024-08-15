@@ -75,13 +75,113 @@
         "tags": [],
         "difficulty": "medium",
         "year": 2021
-    },    {
-        "question_id": "047",
-        "subject": "Technical",
-        "question_text": "Select the CORRECT statement(s) regarding semiconductor devices.\n\n(a) Electrons and holes are of equal density in an intrinsic semiconductor at equilibrium.\n\n(b) Collector region is generally more heavily doped than Base region in a BJ T.\n\n(c) Total current is spatially constant in a two terminal electronic device in dark under steady state condition.\n\n(d) Mobility of electrons always increases with temperature in Silicon beyond 300 K .",
+    },
+    {
+        "question_id": "007",
+        "subject": "Aptitude",
+        "question_text": "Consider the following inequalities.\n\n(i) $2 x-1>7$\n\n(ii) $2 x-9<1$\n\nWhich one of the following expressions below satisfies the above two inequalities?\n(a) $x \\leq-4$\n(b) $-4<x \\leq 4$\n(c) $4<x<5$\n(d) $x \\geq 5$",
         "question_image": [],
-        "solution_text": "(a, c)\n- At equilibrium $n=p=n_{i}$ for intrinsic semiconductor\n- Collector region is generally lightly doped then base region in $B J T$. Hence option $B$ is wrong.\n- By increasing temperature above 300K, mobality of electrons decreases hence option (d) is also wrong",
+        "solution_text": "(c)\n\n$$\n\\begin{aligned}\n& \\Rightarrow 2 x-1>7 \\mid \\quad 2 x-9<1 \\\\\n& \\Rightarrow \\quad 2 x>8 \\quad \\Rightarrow \\quad 2 x<10 \\\\\n& \\Rightarrow \\quad x>4 \\quad \\mid \\Rightarrow \\quad x<5\n\\end{aligned}\n$$\n\nCombining both inequalities\n\n$4<x<5$",
         "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2021
+    },
+    {
+        "question_id": "008",
+        "subject": "Aptitude",
+        "question_text": "Four points $\\mathrm{P}(0,1), Q(0,-3), R(-2,-1)$, and $S(2$, $-1)$ represent the vertices of a quadrilateral.\n\nWhat is the area enclosed by the quadrilateral?\n(a) 4\n(b) $4 \\sqrt{2}$\n(c) 8\n(d) $8 \\sqrt{2}$",
+        "question_image": [],
+        "solution_text": "(c)\n\n[image1]\n\n$$\n\\begin{aligned}\n\\mathrm{PS} & =\\sqrt{(\\sqrt{2})^{4}+(-2)^{2}} \\\\\n& =\\sqrt{2+4+2} \\\\\n& =\\sqrt{8} \\\\\n\\mathrm{SQ} & =\\sqrt{4+4}=\\sqrt{8} \\\\\n\\mathrm{SQ} & =\\sqrt{4+4}=\\sqrt{8} \\\\\n\\mathrm{QS} & =\\sqrt{4+4}=\\sqrt{8} \\\\\n\\mathrm{PQ} & =\\sqrt{16}=4 \\\\\n\\mathrm{RS} & =\\sqrt{16}=4 \\\\\n\\text { Area } & =\\sqrt{8} \\times \\sqrt{8}=8 \\text { units }\n\\end{aligned}\n$$",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-2.jpg?height=497&width=557&top_left_y=2199&top_left_x=1206"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2021
+    },
+    {
+        "question_id": "009",
+        "subject": "Aptitude",
+        "question_text": "In a class of five students P, Q, R, S and T, only one student is known to have copied in the exam. The disciplinary committee has investigated the situation and recorded the statements from the students as given below.\n\nStatement of P: R has copied in the exam.\n\nStatement of Q: S has copied in the exam.\n\nStatement of R: P did not copy in the exam.\n\nStatement of S: Only one of us is telling the truth.\n\nStatement of $\\mathrm{T}$ : $\\mathrm{R}$ is telling the truth.\n\nThe investigating team had authentic information that $\\mathrm{S}$ never lies.\n\nBased on the information given above, the person who has copied in the exam is\n(a) $\\mathrm{R}$\n(b) $\\mathrm{P}$\n(c) $\\mathrm{Q}$\n(d) $\\mathrm{T}$\n\n\\section*{",
+        "question_image": [],
+        "solution_text": "(b)}\n\nShows cheating done by\n\n[image1]\n\nHence $P$ has copied in the exam.",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-3.jpg?height=268&width=439&top_left_y=2159&top_left_x=246"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2021
+    },
+    {
+        "question_id": "010",
+        "subject": "Aptitude",
+        "question_text": "Consider the following square with the four corners and the center marked as P, Q, R, S and $\\mathrm{T}$ respectively.\n\n[image1]\n\nLet $\\mathrm{X}, \\mathrm{Y}$ and $\\mathrm{Z}$ represent the following operations: $X$ : rotation of the square by 180 degree with respect to the $\\mathrm{S}-\\mathrm{Q}$ axis.\n\n$\\mathrm{Y}$ : rotation of the square by 180 degree with respect to the $P-R$ axis.\n\n$\\mathrm{Z}$ : rotation of the square by 90 degree clockwise with respect to the axis perpendicular, going into the screen and passing through the point $\\mathrm{T}$.\n\nConsider the following three distinct sequences of operation (which are applied in the left to right order).\n\n1. XYZ\n2. XY\n3. ZZZZ\n\nWhich one of the following statements is correct as per the information provided above?\n\n(a) The sequence of operations (1) and (2) are equivalent\n\n(b) The sequence of operations (1) and (3) are equivalent\n\n(c) The sequence of operations (2) and (3) are equivalent\n\n(d) The sequence of operations (1), (2) and (3) are equivalent",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-3.jpg?height=211&width=237&top_left_y=340&top_left_x=1366"
+        ],
+        "solution_text": "(b)\n\n[image1]\n\n$x \\rightarrow S-Q \\rightarrow 180^{\\circ}$\n\n$y \\rightarrow P-R \\rightarrow 180^{\\circ}$\n\n$z \\rightarrow 90^{\\circ}(T)$\n\n(3) Operations - ZZZZ\n\n[image2]\n\n[image3]\n\n(2) $x y$\n[image4]\n\n(1) $x y z$\n\n[image5]\n\nHence, option (b) is corret\n\n\\section*{TECHNICAL}",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-3.jpg?height=248&width=299&top_left_y=1915&top_left_x=1341",
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-3.jpg?height=249&width=805&top_left_y=2434&top_left_x=1088",
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-4.jpg?height=251&width=811&top_left_y=340&top_left_x=174",
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-4.jpg?height=246&width=784&top_left_y=642&top_left_x=176",
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-4.jpg?height=237&width=300&top_left_y=955&top_left_x=427"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2021
+    },
+    {
+        "question_id": "011",
+        "subject": "Technical",
+        "question_text": "Consider the two-dimensional vector field $\\vec{F}(x, y)=x \\vec{i}+y \\vec{j}$, where $\\vec{i}$ and $\\vec{j}$ denote the unit vectors along the $x$-axis and the $y$-axis, respectively. A contour $C$ in the $x$-y plane, as shown in the figure, is composed of two horizontal lines connected at the two ends by two semicircular arcs of unit radius. The contour is traversed in the counter-clockwise sense. The value of the closed path integral $\\oint \\vec{F}(x, y) .(d x \\vec{i}+d y \\vec{j})$ is. $\\qquad$\n\n[image1]\n(a) 0\n(b) 1\n(c) $8+2 \\pi$\n(d) -1",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-4.jpg?height=508&width=780&top_left_y=1942&top_left_x=181"
+        ],
+        "solution_text": "(a)\n\n$$\n\\begin{aligned}\n& \\oint \\vec{F}(x, y) \\cdot[d x \\vec{i}+d y \\vec{j}] \\\\\n& \\text { Given } \\vec{F}(x, y)=x \\vec{i}+y \\vec{j} \\\\\n& \\therefore \\quad \\int_{c} x d x+y d y=0\n\\end{aligned}\n$$\n\nBecause here vector is conservative.\n\nIf the integral function is the total derivative over the closed contoure then it will be zero.",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2021
+    },
+    {
+        "question_id": "012",
+        "subject": "Technical",
+        "question_text": "Consider a system of linear equations $A x=b$, where\n\n$A=\\left[\\begin{array}{ccc}1 & -\\sqrt{2} & 3 \\\\ -1 & \\sqrt{2} & -3\\end{array}\\right], b=\\left[\\begin{array}{l}1 \\\\ 3\\end{array}\\right]$.\n\nThis system of equations admits $\\qquad$ .\n\n(a) a unique solution for $x$\n\n(b) infinitely many solutions for $x$\n\n(c) no solutions for $x$\n\n(d) exactly two solutions for $\\mathrm{x}$",
+        "question_image": [],
+        "solution_text": "(c)\n\n$A=\\left[\\begin{array}{ccc}1 & -\\sqrt{2} & 3 \\\\ -1 & \\sqrt{2} & -3\\end{array}\\right]$ and $B=\\left[\\begin{array}{l}1 \\\\ 3\\end{array}\\right]$\n\nHence equation will be\n\n$x-\\sqrt{2} y+3 z=1$\n\n$-x+\\sqrt{2} y-3 z=3$\n\ntherefore inconsistant sol ution i.e. there will not be any solution.",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2021
+    },
+    {
+        "question_id": "013",
+        "subject": "Technical",
+        "question_text": "The current I in the circuit shown is $\\qquad$\n\n[image1]\n(a) $1.25 \\times 10^{-3} \\mathrm{~A}$\n(b) $0.75 \\times 10^{-3} \\mathrm{~A}$\n(c) $-0.5 \\times 10^{-3} \\mathrm{~A}$\n(d) $1.16 \\times 10^{-3} \\mathrm{~A}$",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-4.jpg?height=337&width=561&top_left_y=1893&top_left_x=1207"
+        ],
+        "solution_text": "(b)\n\n[image1]\n\nApplying Nodal equation at Node-A\n\n$$\n\\begin{aligned}\n& \\frac{\\mathrm{V}_{\\mathrm{A}}}{2 \\mathrm{k}}+\\frac{\\mathrm{V}_{\\mathrm{A}}-5}{2 \\mathrm{k}}=10^{-3} \\\\\n& \\Rightarrow 2 \\mathrm{~V}_{\\mathrm{A}}-5=2 \\mathrm{k} \\times 10^{-3} \\\\\n& \\Rightarrow \\quad \\mathrm{V}_{\\mathrm{A}}=\\frac{7}{2} \\mathrm{~V}=3.5 \\mathrm{~V}\n\\end{aligned}\n$$\n\nAgain,\n\n$\\mathrm{I}=\\frac{5-\\mathrm{V}_{\\mathrm{A}}}{2 \\mathrm{k}}=\\frac{5-3.5}{2 \\mathrm{k}}=\\frac{1.5}{2 \\mathrm{k}}=0.75 \\times 10^{-3} \\mathrm{~A}$",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-4.jpg?height=302&width=606&top_left_y=2396&top_left_x=1159"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2021
+    },
+    {
+        "question_id": "014",
+        "subject": "Technical",
+        "question_text": "Consider the circuit shown in the figure. The current I flowing through the $10 \\Omega$ resistor is $\\qquad$ .\n\n[image1]\n(a) $1 \\mathrm{~A}$\n(b) $0 \\mathrm{~A}$\n(c) $0.1 \\mathrm{~A}$\n(d) $-0.1 \\mathrm{~A}$",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-5.jpg?height=291&width=717&top_left_y=1048&top_left_x=218"
+        ],
+        "solution_text": "(b)\n\n[image1]\n- Here, there is no any return closed path for Current (I). Hence $\\mathrm{I}=0$.\n- Current always flow in loop.",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-5.jpg?height=291&width=754&top_left_y=1528&top_left_x=203"
+        ],
         "tags": [],
         "difficulty": "medium",
         "year": 2021
