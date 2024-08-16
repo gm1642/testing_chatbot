@@ -1,22 +1,36 @@
-# testing_chatbot
- 
-# RAG Chatbot with dual capability exact solution retrieval + response generation
-## To use this chatbot follow these steps
-# Step 1: Download and install Ollama
-# step 2: Step 2: Pull models
-`ollama pull phi3 ollama pull mxbai-embed-large`
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-# Step 3: Install Ollama Python library
-`pip install ollama`
+## Getting Started
 
-# How to Setup a Local Vector Database Instance with Docker
-# Step 1: Download and install Docker
-# Step 2: Start up the Docker container with a Weaviate instance
-`docker run -p 8080:8080 -p 50051:50051 cr.weaviate.io/semitechnologies/weaviate:1.24.8`
+First, run the development server:
 
-# Step 3: Install the Weaviate Python client
-`pip install -U weaviate-client`
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-# finally run app2.py
-# navigate to
-# http://127.0.0.1:7860/
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+
+## Learn More
+
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.

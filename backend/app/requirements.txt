@@ -1,0 +1,4 @@
+gradio
+ollama
+weaviate-client==4.7.0rc2
+requests

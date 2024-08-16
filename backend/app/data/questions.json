@@ -1,0 +1,71 @@
+[
+    {
+        "question_id": "001",
+        "subject": "Aptitude",
+        "question_text": "Mr. X speaks $\\qquad$ Japanese $\\qquad$ Chinese.\n(a) neither / or\n(b) either / nor\n(c) neither / nor\n(d) also / but",
+        "question_image": [],
+        "solution_text": "(c)\n\nHere we will cheake tones.\n\nMr. X speaks neither J apanese nor Chinese.",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2021
+    },
+    {
+        "question_id": "002",
+        "subject": "Aptitude",
+        "question_text": "A sum of money is to be distributed among $P$, $Q, R$, and $S$ in the proportion $5: 2: 4: 3$, respectively.\n\nIf R gets $R 1000$ more than $S$, what is the share of $Q$ (in Rs)?\n(a) 500\n(b) 1000\n(c) 1500\n(d) 2000",
+        "question_image": [],
+        "solution_text": "(d)\n\n$P \\quad Q \\quad \\underset{R}{\\sim} \\quad 1=1000$ Rs.\n\n$5: 2: 4: 3$\n\nSo, Sharing of Q is $=2 \\times 1000$\n\n$=2000 \\mathrm{Rs}$",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2021
+    },
+    {
+        "question_id": "003",
+        "subject": "Aptitude",
+        "question_text": "A trapezium has vertices marked as $\\mathrm{P}, \\mathrm{Q}, \\mathrm{R}$ and $S$ (in that order anticlockwise). The side $\\mathrm{PQ}$ is parallel to side $\\mathrm{SR}$.\n\nFurther, it is given that, $\\mathrm{PQ}=11 \\mathrm{~cm}, \\mathrm{QR}=4$ $\\mathrm{cm}, \\mathrm{RS}=6 \\mathrm{~cm}$ and $S P=3 \\mathrm{~cm}$.\n\nWhat is the shortest distance between $\\mathrm{PQ}$ and $\\mathrm{SR}$ (in $\\mathrm{cm}$ )?\n(a) 1.80\n(b) 2.40\n(c) 4.20\n(d) 5.76",
+        "question_image": [],
+        "solution_text": "(b)\n\n[image1]\n\n$$\n\\begin{aligned}\n& =\\frac{1}{2} \\times B \\times 4 \\quad H \\rightarrow \\text { Height } \\\\\n& =\\frac{1}{2} \\times 3 \\times 4 \\\\\n& =6 \\mathrm{~cm}^{2} \\\\\n\\frac{1}{2} \\times 5 \\times \\mathrm{RT} & =6 \\mathrm{~cm}^{2} \\\\\n\\text { RT } & =2.4 \\mathrm{~cm}\n\\end{aligned}\n$$",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-1.jpg?height=442&width=682&top_left_y=2246&top_left_x=273"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2021
+    },
+    {
+        "question_id": "006",
+        "subject": "Aptitude",
+        "question_text": "Mosquitoes pose a threat to human health. Controlling mosquitoes using chemicals may have undesired consequences. In Florida, authorities have used genetically modified mosquitoes to control the overall mosquito population. It remains to be seen if this novel approach has unforeseen consequences.\n\nWhich one of the following is the correct logical inference based on the information in the above passage?\n\n(a) Using chemicals to kill mosquitoes is better than using genetically modified mosquitoes because genetic engineering is dangerous (b) Using genetically modified mosquitoes is better than using chemicals to kill mosquitoes because they do not have any side effects\n\n(c) Both using genetically modified mosquitoes and chemicals have undesired consequences and can be dangerous\n\n(d) Using chemicals to kill mosquitoes may have undesired consequences but it is not clear if using genetically modified mosquitoes has any negative consequence",
+        "question_image": [],
+        "solution_text": "(d)\n\nUsing chemicals to kill mosquitoes may have undesired consequence but it is not clear if using genetically modified mosquitoes has any negative consequence.",
+        "solution_image": [],
+        "tags": [
+            "controlling mosquitoes using chemicals may",
+            "correct logical inference based",
+            "used genetically modified mosquitoes",
+            "using genetically modified mosquitoes",
+            "using genetically modified mosquitoes"
+        ],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "047",
+        "subject": "Technical",
+        "question_text": "Select the CORRECT statement(s) regarding semiconductor devices.\n\n(a) Electrons and holes are of equal density in an intrinsic semiconductor at equilibrium.\n\n(b) Collector region is generally more heavily doped than Base region in a BJ T.\n\n(c) Total current is spatially constant in a two terminal electronic device in dark under steady state condition.\n\n(d) Mobility of electrons always increases with temperature in Silicon beyond 300 K .",
+        "question_image": [],
+        "solution_text": "(a, c)\n- At equilibrium $n=p=n_{i}$ for intrinsic semiconductor\n- Collector region is generally lightly doped then base region in $B J T$. Hence option $B$ is wrong.\n- By increasing temperature above 300K, mobality of electrons decreases hence option (d) is also wrong",
+        "solution_image": [],
+        "tags": [
+            "two terminal electronic device",
+            "silicon beyond 300 k",
+            "steady state condition",
+            "regarding semiconductor devices",
+            "electrons always increases"
+        ],
+        "difficulty": "medium",
+        "year": 2022
+    }
+]

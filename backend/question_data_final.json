@@ -1,0 +1,858 @@
+[
+    {
+        "question_id": "001",
+        "subject": "Aptitude",
+        "question_text": "Mr. X speaks $\\qquad$ Japanese $\\qquad$ Chinese.\n(a) neither / or\n(b) either / nor\n(c) neither / nor\n(d) also / but",
+        "question_image": [],
+        "solution_text": "(c)\n\nHere we will cheake tones.\n\nMr. X speaks neither J apanese nor Chinese.",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "002",
+        "subject": "Aptitude",
+        "question_text": "A sum of money is to be distributed among $P$, $Q, R$, and $S$ in the proportion $5: 2: 4: 3$, respectively.\n\nIf R gets $R 1000$ more than $S$, what is the share of $Q$ (in Rs)?\n(a) 500\n(b) 1000\n(c) 1500\n(d) 2000",
+        "question_image": [],
+        "solution_text": "(d)\n\n$P \\quad Q \\quad \\underset{R}{\\sim} \\quad 1=1000$ Rs.\n\n$5: 2: 4: 3$\n\nSo, Sharing of Q is $=2 \\times 1000$\n\n$=2000 \\mathrm{Rs}$",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "003",
+        "subject": "Aptitude",
+        "question_text": "A trapezium has vertices marked as $\\mathrm{P}, \\mathrm{Q}, \\mathrm{R}$ and $S$ (in that order anticlockwise). The side $\\mathrm{PQ}$ is parallel to side $\\mathrm{SR}$.\n\nFurther, it is given that, $\\mathrm{PQ}=11 \\mathrm{~cm}, \\mathrm{QR}=4$ $\\mathrm{cm}, \\mathrm{RS}=6 \\mathrm{~cm}$ and $S P=3 \\mathrm{~cm}$.\n\nWhat is the shortest distance between $\\mathrm{PQ}$ and $\\mathrm{SR}$ (in $\\mathrm{cm}$ )?\n(a) 1.80\n(b) 2.40\n(c) 4.20\n(d) 5.76",
+        "question_image": [],
+        "solution_text": "(b)\n\n[image1]\n\n$$\n\\begin{aligned}\n& =\\frac{1}{2} \\times B \\times 4 \\quad H \\rightarrow \\text { Height } \\\\\n& =\\frac{1}{2} \\times 3 \\times 4 \\\\\n& =6 \\mathrm{~cm}^{2} \\\\\n\\frac{1}{2} \\times 5 \\times \\mathrm{RT} & =6 \\mathrm{~cm}^{2} \\\\\n\\text { RT } & =2.4 \\mathrm{~cm}\n\\end{aligned}\n$$",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-1.jpg?height=442&width=682&top_left_y=2246&top_left_x=273"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "004",
+        "subject": "Aptitude",
+        "question_text": "The figure shows a grid formed by a collection of unit squares. The unshaded unit square in the grid represents a hole.\n\n[image1]\n\nWhat is the maximum number of squares without a \"hole in the interior\" that can be formed within the $4 \\times 4$ grid using the unit squares as building blocks?\n(a) 15\n(b) 20\n(c) 21\n(d) 26",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-1.jpg?height=520&width=583&top_left_y=942&top_left_x=1176"
+        ],
+        "solution_text": "(b)\n\n[image1]\n\nTotal number of sqaures without a hole in interior\n\n[image2]",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-1.jpg?height=309&width=665&top_left_y=1833&top_left_x=1158",
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-1.jpg?height=180&width=323&top_left_y=2243&top_left_x=1169"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "005",
+        "subject": "Aptitude",
+        "question_text": "An art gallery engages a security guard to ensure that the items displayed are protected. The diagram below represents the plan of the gallery where the boundary walls are opaque. The location the security guard posted is\nidentified such that all the inner space (shaded region in the plan) of the gallery is within the line of sight of the security guard.\n\nIf the security guard does not move around the posted location and has a $360^{\\circ}$ view, which one of the following correctly represents the set of ALL possible locations among the locations $\\mathrm{P}$, $\\mathrm{Q}, \\mathrm{R}$ and $\\mathrm{S}$, where the security guard can be posted to watch over the entire inner space of the gallery.\n\n[image1]\n(a) P and Q\n(b) $\\mathrm{Q}$\n(c) $\\mathrm{Q}$ and $\\mathrm{S}$\n(d) $\\mathrm{R}$ and $\\mathrm{S}$",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-2.jpg?height=437&width=449&top_left_y=821&top_left_x=358"
+        ],
+        "solution_text": "(c)\n\n[image1]\n\nIf person will stand on ' $P$ ' than he/she can't see the visibility side of $R$ and vice versa.\n\nBut if security guard will be stand at $\\mathrm{Q}$ and $\\mathrm{S}$ than he will se whole $360^{\\circ}$.",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-2.jpg?height=420&width=257&top_left_y=1435&top_left_x=451"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "006",
+        "subject": "Aptitude",
+        "question_text": "Mosquitoes pose a threat to human health. Controlling mosquitoes using chemicals may have undesired consequences. In Florida, authorities have used genetically modified mosquitoes to control the overall mosquito population. It remains to be seen if this novel approach has unforeseen consequences.\n\nWhich one of the following is the correct logical inference based on the information in the above passage?\n\n(a) Using chemicals to kill mosquitoes is better than using genetically modified mosquitoes because genetic engineering is dangerous (b) Using genetically modified mosquitoes is better than using chemicals to kill mosquitoes because they do not have any side effects\n\n(c) Both using genetically modified mosquitoes and chemicals have undesired consequences and can be dangerous\n\n(d) Using chemicals to kill mosquitoes may have undesired consequences but it is not clear if using genetically modified mosquitoes has any negative consequence",
+        "question_image": [],
+        "solution_text": "(d)\n\nUsing chemicals to kill mosquitoes may have undesired consequence but it is not clear if using genetically modified mosquitoes has any negative consequence.",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "007",
+        "subject": "Aptitude",
+        "question_text": "Consider the following inequalities.\n\n(i) $2 x-1>7$\n\n(ii) $2 x-9<1$\n\nWhich one of the following expressions below satisfies the above two inequalities?\n(a) $x \\leq-4$\n(b) $-4<x \\leq 4$\n(c) $4<x<5$\n(d) $x \\geq 5$",
+        "question_image": [],
+        "solution_text": "(c)\n\n$$\n\\begin{aligned}\n& \\Rightarrow 2 x-1>7 \\mid \\quad 2 x-9<1 \\\\\n& \\Rightarrow \\quad 2 x>8 \\quad \\Rightarrow \\quad 2 x<10 \\\\\n& \\Rightarrow \\quad x>4 \\quad \\mid \\Rightarrow \\quad x<5\n\\end{aligned}\n$$\n\nCombining both inequalities\n\n$4<x<5$",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "008",
+        "subject": "Aptitude",
+        "question_text": "Four points $\\mathrm{P}(0,1), Q(0,-3), R(-2,-1)$, and $S(2$, $-1)$ represent the vertices of a quadrilateral.\n\nWhat is the area enclosed by the quadrilateral?\n(a) 4\n(b) $4 \\sqrt{2}$\n(c) 8\n(d) $8 \\sqrt{2}$",
+        "question_image": [],
+        "solution_text": "(c)\n\n[image1]\n\n$$\n\\begin{aligned}\n\\mathrm{PS} & =\\sqrt{(\\sqrt{2})^{4}+(-2)^{2}} \\\\\n& =\\sqrt{2+4+2} \\\\\n& =\\sqrt{8} \\\\\n\\mathrm{SQ} & =\\sqrt{4+4}=\\sqrt{8} \\\\\n\\mathrm{SQ} & =\\sqrt{4+4}=\\sqrt{8} \\\\\n\\mathrm{QS} & =\\sqrt{4+4}=\\sqrt{8} \\\\\n\\mathrm{PQ} & =\\sqrt{16}=4 \\\\\n\\mathrm{RS} & =\\sqrt{16}=4 \\\\\n\\text { Area } & =\\sqrt{8} \\times \\sqrt{8}=8 \\text { units }\n\\end{aligned}\n$$",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-2.jpg?height=497&width=557&top_left_y=2199&top_left_x=1206"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "009",
+        "subject": "Aptitude",
+        "question_text": "In a class of five students P, Q, R, S and T, only one student is known to have copied in the exam. The disciplinary committee has investigated the situation and recorded the statements from the students as given below.\n\nStatement of P: R has copied in the exam.\n\nStatement of Q: S has copied in the exam.\n\nStatement of R: P did not copy in the exam.\n\nStatement of S: Only one of us is telling the truth.\n\nStatement of $\\mathrm{T}$ : $\\mathrm{R}$ is telling the truth.\n\nThe investigating team had authentic information that $\\mathrm{S}$ never lies.\n\nBased on the information given above, the person who has copied in the exam is\n(a) $\\mathrm{R}$\n(b) $\\mathrm{P}$\n(c) $\\mathrm{Q}$\n(d) $\\mathrm{T}$\n\n\\section*{",
+        "question_image": [],
+        "solution_text": "(b)}\n\nShows cheating done by\n\n[image1]\n\nHence $P$ has copied in the exam.",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-3.jpg?height=268&width=439&top_left_y=2159&top_left_x=246"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "010",
+        "subject": "Aptitude",
+        "question_text": "Consider the following square with the four corners and the center marked as P, Q, R, S and $\\mathrm{T}$ respectively.\n\n[image1]\n\nLet $\\mathrm{X}, \\mathrm{Y}$ and $\\mathrm{Z}$ represent the following operations: $X$ : rotation of the square by 180 degree with respect to the $\\mathrm{S}-\\mathrm{Q}$ axis.\n\n$\\mathrm{Y}$ : rotation of the square by 180 degree with respect to the $P-R$ axis.\n\n$\\mathrm{Z}$ : rotation of the square by 90 degree clockwise with respect to the axis perpendicular, going into the screen and passing through the point $\\mathrm{T}$.\n\nConsider the following three distinct sequences of operation (which are applied in the left to right order).\n\n1. XYZ\n2. XY\n3. ZZZZ\n\nWhich one of the following statements is correct as per the information provided above?\n\n(a) The sequence of operations (1) and (2) are equivalent\n\n(b) The sequence of operations (1) and (3) are equivalent\n\n(c) The sequence of operations (2) and (3) are equivalent\n\n(d) The sequence of operations (1), (2) and (3) are equivalent",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-3.jpg?height=211&width=237&top_left_y=340&top_left_x=1366"
+        ],
+        "solution_text": "(b)\n\n[image1]\n\n$x \\rightarrow S-Q \\rightarrow 180^{\\circ}$\n\n$y \\rightarrow P-R \\rightarrow 180^{\\circ}$\n\n$z \\rightarrow 90^{\\circ}(T)$\n\n(3) Operations - ZZZZ\n\n[image2]\n\n[image3]\n\n(2) $x y$\n[image4]\n\n(1) $x y z$\n\n[image5]\n\nHence, option (b) is corret\n\n\\section*{TECHNICAL}",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-3.jpg?height=248&width=299&top_left_y=1915&top_left_x=1341",
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-3.jpg?height=249&width=805&top_left_y=2434&top_left_x=1088",
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-4.jpg?height=251&width=811&top_left_y=340&top_left_x=174",
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-4.jpg?height=246&width=784&top_left_y=642&top_left_x=176",
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-4.jpg?height=237&width=300&top_left_y=955&top_left_x=427"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "011",
+        "subject": "Technical",
+        "question_text": "Consider the two-dimensional vector field $\\vec{F}(x, y)=x \\vec{i}+y \\vec{j}$, where $\\vec{i}$ and $\\vec{j}$ denote the unit vectors along the $x$-axis and the $y$-axis, respectively. A contour $C$ in the $x$-y plane, as shown in the figure, is composed of two horizontal lines connected at the two ends by two semicircular arcs of unit radius. The contour is traversed in the counter-clockwise sense. The value of the closed path integral $\\oint \\vec{F}(x, y) .(d x \\vec{i}+d y \\vec{j})$ is. $\\qquad$\n\n[image1]\n(a) 0\n(b) 1\n(c) $8+2 \\pi$\n(d) -1",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-4.jpg?height=508&width=780&top_left_y=1942&top_left_x=181"
+        ],
+        "solution_text": "(a)\n\n$$\n\\begin{aligned}\n& \\oint \\vec{F}(x, y) \\cdot[d x \\vec{i}+d y \\vec{j}] \\\\\n& \\text { Given } \\vec{F}(x, y)=x \\vec{i}+y \\vec{j} \\\\\n& \\therefore \\quad \\int_{c} x d x+y d y=0\n\\end{aligned}\n$$\n\nBecause here vector is conservative.\n\nIf the integral function is the total derivative over the closed contoure then it will be zero.",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "012",
+        "subject": "Technical",
+        "question_text": "Consider a system of linear equations $A x=b$, where\n\n$A=\\left[\\begin{array}{ccc}1 & -\\sqrt{2} & 3 \\\\ -1 & \\sqrt{2} & -3\\end{array}\\right], b=\\left[\\begin{array}{l}1 \\\\ 3\\end{array}\\right]$.\n\nThis system of equations admits $\\qquad$ .\n\n(a) a unique solution for $x$\n\n(b) infinitely many solutions for $x$\n\n(c) no solutions for $x$\n\n(d) exactly two solutions for $\\mathrm{x}$",
+        "question_image": [],
+        "solution_text": "(c)\n\n$A=\\left[\\begin{array}{ccc}1 & -\\sqrt{2} & 3 \\\\ -1 & \\sqrt{2} & -3\\end{array}\\right]$ and $B=\\left[\\begin{array}{l}1 \\\\ 3\\end{array}\\right]$\n\nHence equation will be\n\n$x-\\sqrt{2} y+3 z=1$\n\n$-x+\\sqrt{2} y-3 z=3$\n\ntherefore inconsistant sol ution i.e. there will not be any solution.",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "013",
+        "subject": "Technical",
+        "question_text": "The current I in the circuit shown is $\\qquad$\n\n[image1]\n(a) $1.25 \\times 10^{-3} \\mathrm{~A}$\n(b) $0.75 \\times 10^{-3} \\mathrm{~A}$\n(c) $-0.5 \\times 10^{-3} \\mathrm{~A}$\n(d) $1.16 \\times 10^{-3} \\mathrm{~A}$",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-4.jpg?height=337&width=561&top_left_y=1893&top_left_x=1207"
+        ],
+        "solution_text": "(b)\n\n[image1]\n\nApplying Nodal equation at Node-A\n\n$$\n\\begin{aligned}\n& \\frac{\\mathrm{V}_{\\mathrm{A}}}{2 \\mathrm{k}}+\\frac{\\mathrm{V}_{\\mathrm{A}}-5}{2 \\mathrm{k}}=10^{-3} \\\\\n& \\Rightarrow 2 \\mathrm{~V}_{\\mathrm{A}}-5=2 \\mathrm{k} \\times 10^{-3} \\\\\n& \\Rightarrow \\quad \\mathrm{V}_{\\mathrm{A}}=\\frac{7}{2} \\mathrm{~V}=3.5 \\mathrm{~V}\n\\end{aligned}\n$$\n\nAgain,\n\n$\\mathrm{I}=\\frac{5-\\mathrm{V}_{\\mathrm{A}}}{2 \\mathrm{k}}=\\frac{5-3.5}{2 \\mathrm{k}}=\\frac{1.5}{2 \\mathrm{k}}=0.75 \\times 10^{-3} \\mathrm{~A}$",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-4.jpg?height=302&width=606&top_left_y=2396&top_left_x=1159"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "014",
+        "subject": "Technical",
+        "question_text": "Consider the circuit shown in the figure. The current I flowing through the $10 \\Omega$ resistor is $\\qquad$ .\n\n[image1]\n(a) $1 \\mathrm{~A}$\n(b) $0 \\mathrm{~A}$\n(c) $0.1 \\mathrm{~A}$\n(d) $-0.1 \\mathrm{~A}$",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-5.jpg?height=291&width=717&top_left_y=1048&top_left_x=218"
+        ],
+        "solution_text": "(b)\n\n[image1]\n- Here, there is no any return closed path for Current (I). Hence $\\mathrm{I}=0$.\n- Current always flow in loop.",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-5.jpg?height=291&width=754&top_left_y=1528&top_left_x=203"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "015",
+        "subject": "Technical",
+        "question_text": "The Fourier transform $X(\\mathrm{j} \\omega)$ of the signal $x(t)=\\frac{t}{\\left(1+t^{2}\\right)^{2}}$ is $\\qquad$ .\n(a) $\\frac{\\pi}{2 \\mathrm{j}} \\omega \\mathrm{e}^{-|\\omega|}$\n(b) $\\frac{\\pi}{2} \\omega \\mathrm{e}^{-|\\omega|}$\n(c) $\\frac{\\pi}{2 \\mathrm{j}} \\mathrm{e}^{-|\\omega|}$\n(d) $\\frac{\\pi}{2} \\mathrm{e}^{-|\\omega|}$",
+        "question_image": [],
+        "solution_text": "(a)\n\n$$\nx(t)=\\frac{t}{\\left(1+t^{2}\\right)^{2}}\n$$\n\nAs we know that FT of $\\mathrm{te}^{-|t|} \\stackrel{\\mathrm{FT}}{\\longleftrightarrow} \\frac{-\\mathrm{j} 4 \\omega}{\\left(1+\\omega^{2}\\right)^{2}}$\n\n$$\n\\begin{aligned}\n& \\text { Duality } \\frac{-\\mathrm{j} 4 \\omega}{\\left(1+\\mathrm{t}^{2}\\right)^{2}} \\longleftrightarrow 2 \\pi(-\\omega) \\mathrm{e}^{-|-\\omega|} \\\\\n& \\Rightarrow \\frac{t}{\\left(1+t^{2}\\right)^{2}} \\xrightarrow{F T} \\frac{-2 \\pi}{-j 4} \\omega e^{-|\\omega|} \\\\\n& \\Rightarrow \\quad \\longrightarrow \\frac{\\pi}{\\mathrm{j} 2} \\omega \\mathrm{e}^{-|\\omega|}\n\\end{aligned}\n$$",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "016",
+        "subject": "Technical",
+        "question_text": "Consider a long rectangular bar of direct bandgap p-type semiconductor. The equilibrium hole density is $10^{17} \\mathrm{~mm}^{-3}$ and the intrinsic carrier concentration is $10^{10} \\mathrm{~cm}^{-3}$. Electron and hole diffusion lengths are $2 \\mu \\mathrm{m}$ and $1 \\mu \\mathrm{m}$, respectively.\n\nThe left side of the bar $(x=0)$ is uniformly illuminated with a laser having photon energy greater than the bandgap of the semiconductor. Excess electron-hole pairs are generated ONLY at $x=0$ because of the laser. The steady state electron density at $x=0$ is $10^{14} \\mathrm{~cm}^{-3}$ due to laser illumination. Under these conditions and ignoring electric field, the closest approximation (among the given options) of the steady state electron density at $x=2 \\mu \\mathrm{m}$, is $\\qquad$ .\n(a) $0.37 \\times 10^{14} \\mathrm{~cm}^{-3}$\n(b) $0.63 \\times 10^{13} \\mathrm{~cm}^{-3}$\n(c) $3.7 \\times 10^{14} \\mathrm{~cm}^{-3}$\n(d) $10^{3} \\mathrm{~cm}^{-3}$",
+        "question_image": [],
+        "solution_text": "(a)\n\n[image1]\n\nFrom continuity equation of electrons\n\n$$\n\\begin{gathered}\n\\frac{\\mathrm{dn}}{\\mathrm{dt}}=\\mathrm{n} \\mu_{\\mathrm{n}} \\frac{\\mathrm{dE}}{\\mathrm{dx}}+\\mu_{\\mathrm{n}} \\mathrm{E} \\frac{\\mathrm{dn}}{\\mathrm{dx}}+\\mathrm{G}_{\\mathrm{n}}-\\mathrm{R}_{\\mathrm{n}}+\\mathrm{x}_{\\mathrm{n}} \\frac{\\mathrm{d}^{2} \\mathrm{x}}{\\mathrm{dx}^{2}} \\ldots \\text { (i) } \\\\\n0+0\n\\end{gathered}\n$$\n\n[Because $\\vec{E}$ is not mentioned hence $\\frac{\\mathrm{dE}}{\\mathrm{dx}}=0[\\overrightarrow{\\mathrm{E}}=0]$\n\nFor $x>0, G_{n}$ is also zero\n\n$$\n\\begin{aligned}\nn & =\\frac{n_{i}^{2}}{N_{A}}=\\frac{10^{20}}{10^{17}}=10^{3} \\\\\n\\because \\quad n & =n_{0}+\\delta n \\\\\n& =10^{3}+10^{14}=10^{14}\n\\end{aligned}\n$$\n\nat steady state, $\\frac{\\mathrm{dn}}{\\mathrm{dt}}=0$\n\nHence equation (i) becomes:\n\n$$\n\\begin{align*}\nO & =D_{n} \\frac{d^{2} \\delta n}{d x^{2}}-\\frac{\\delta n}{\\tau_{n}} \\\\\n\\Rightarrow \\quad \\frac{d^{2} \\delta_{n}}{d x^{2}} & =\\frac{\\delta_{n}}{L_{n}^{2}} \\tag{ii}\n\\end{align*}\n$$\n\nFrom solving equation (ii)\n\n$$\n\\begin{aligned}\n\\delta_{n}(x) & =\\delta_{n}(0) e^{-x / L_{n}} \\\\\nx & =2 \\mu \\mathrm{m} \\\\\n\\delta_{\\mathrm{n}}(2 \\mu \\mathrm{m}) & =10^{14} \\mathrm{e}^{-\\frac{2}{2}}=10^{14} \\mathrm{e}^{-1} \\\\\n& =0.37 \\times 10^{14}\n\\end{aligned}\n$$",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-5.jpg?height=309&width=462&top_left_y=1853&top_left_x=1254"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "017",
+        "subject": "Technical",
+        "question_text": "In a non-degenerate bulk semiconductor with electron density $\\mathrm{n}=10^{16} \\mathrm{~cm}^{-3}$, the value of $E_{C}-F_{F n}=200 \\mathrm{meV}$, where $E_{C}$ and $E_{F n}$ denote the bottom of the conduction band energy and electron Fermi level energy, respectively. Assume thermal voltage as $26 \\mathrm{meV}$ and the intrinsic carrier concentration is $10^{10} \\mathrm{~cm}^{-3}$. For $\\mathrm{n}=0.5$ $\\times 10^{16} \\mathrm{~cm}^{-3}$, the closest approximation of the value of ( $E_{C}-E_{F n}$ ), among the given options, is $\\qquad$ .\n(a) $226 \\mathrm{meV}$\n(b) $174 \\mathrm{meV}$\n(c) $218 \\mathrm{meV}$\n(d) $182 \\mathrm{meV}$\n\n\\section*{",
+        "question_image": [],
+        "solution_text": "(c)}\n\nHere we have to find the value of $E_{c}-E_{f n}$ As we know,\n\n$$\n\\begin{align*}\n& E_{C}-E_{F}=k T \\ell n\\left(\\frac{N_{\\mathrm{C}}}{\\mathrm{n}}\\right)  \\tag{i}\\\\\n& \\mathrm{E}_{\\mathrm{C}}-\\mathrm{E}_{\\mathrm{F} 1}=k T \\ell n\\left(\\frac{\\mathrm{N}_{\\mathrm{c}}}{\\mathrm{n}_{1}}\\right)  \\tag{ii}\\\\\n& \\mathrm{E}_{\\mathrm{C}}-\\mathrm{E}_{\\mathrm{F} 2}=k \\operatorname{k} \\ln \\left(\\frac{\\mathrm{N}_{\\mathrm{c}}}{\\mathrm{N}_{2}}\\right) \\tag{iii}\n\\end{align*}\n$$\n\nEquation (ii) - Equation (iii)\n\n$$\n\\left(E_{c}-E_{F 1}\\right)-\\left(E_{c}-E_{F 2}\\right)=k T \\ell n\\left[\\frac{\\frac{N_{c}}{n_{1}}}{\\frac{N_{c}}{n_{2}}}\\right]=k T \\ell n \\frac{n_{2}}{n_{1}}\n$$\n\n$$\n\\begin{gathered}\n\\Rightarrow 200 \\mathrm{meV}-\\left(E_{c}-E_{F 2}\\right)=26 \\mathrm{meV} \\times \\ell \\mathrm{n}\\left(\\frac{0.5 \\times 10^{16}}{1 \\times 10^{16}}\\right) \\\\\n200 \\mathrm{mev}-\\left(E_{c}-E_{F 2}\\right)=+26 \\mathrm{mev} \\ell(0.5)=-18 \\\\\n\\Rightarrow \\quad\\left(E_{c}-E_{F 2}\\right)=200+8=218 \\mathrm{meV} \\\\\n\\quad=218 \\mathrm{meV}\n\\end{gathered}\n$$",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "018",
+        "subject": "Technical",
+        "question_text": "Consider the CMOS circuit shown in the figure (substrates are connected to their respective sources). The gate width (W) to gate length ( $\\mathrm{L}$ ) ratios $\\left(\\frac{\\mathrm{W}}{\\mathrm{L}}\\right)$ of the transistors are as shown. Both the transistors have the same gate oxide capacitance per unit area. For the pMOSFET, the threshold voltage is $-1 \\mathrm{~V}$ and the mobility of holes is $40 \\mathrm{~cm}^{2} N$.s. For the nMOSFET, the threshold voltage is $1 \\mathrm{~V}$ and the mobility of electrons is $300 \\mathrm{~cm}^{2} N$.s. The steady state output voltage $\\mathrm{V}_{0}$ is $\\qquad$ .\n\n[image1]\n(a) equal to $0 \\mathrm{~V}$\n(b) more than $2 \\mathrm{~V}$\n(c) less than $2 \\mathrm{~V}$\n(d) equal to $2 \\mathrm{~V}$\n\n\\section*{",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-6.jpg?height=343&width=331&top_left_y=1319&top_left_x=1319"
+        ],
+        "solution_text": "(c)}\n\nFigure.\n\nGiven data : $\\left|V_{T P}\\right|=1 V=V_{T N}$\n\n$\\mathrm{CO}_{\\mathrm{x}}=$ equal\n\n$\\mu_{\\mathrm{n}}=300$\n\n$\\mu_{\\mathrm{P}}=40$\n\n$I_{D 1}=I_{D 2}$\n\n[image1]\n\n$$\n\\begin{aligned}\n& \\mu_{\\mathrm{P}} \\mathrm{CO}_{x}\\left(\\frac{\\omega}{\\mathrm{L}}\\right)_{1}\\left[4-\\mathrm{V}_{0}-1\\right]^{2}=\\mu_{\\mathrm{n}} \\mathrm{CO}_{x}\\left(\\frac{\\omega}{\\mathrm{L}}\\right)_{2}\\left[\\mathrm{~V}_{0}-0-1\\right]^{2} \\\\\n& \\Rightarrow \\frac{300}{40} \\times \\frac{1}{5}\\left(\\mathrm{~V}_{0}-1\\right)^{2}=\\left(3-\\mathrm{V}_{0}\\right)^{2} \\\\\n& \\Rightarrow \\sqrt{1.5}\\left(\\mathrm{~V}_{0}-1\\right)=3-\\mathrm{V}_{0}\n\\end{aligned}\n$$\n\n$$\n\\Rightarrow \\quad \\mathrm{V}_{0}=\\frac{3+\\sqrt{1.5}}{\\sqrt{1.5}+1}=\\text { less than } 2 \\mathrm{~V}\n$$",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-6.jpg?height=437&width=306&top_left_y=1912&top_left_x=1600"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "019",
+        "subject": "Technical",
+        "question_text": "Consider the 2-bit multiplexer (MUX) shown in the figure. For OUTPUT to be the XOR of $C$ and $D$, the values for $A_{0}, A_{1}, A_{2}$, and $A_{3}$ are $\\qquad$ .\n\n[image1]\n\n(a) $A_{0}=0, A_{1}=0, A_{2}=1, A_{3}=1$\n\n(b) $A_{0}=1, A_{1}=0, A_{2}=1, A_{3}=0$\n\n(c) $A_{0}=0, A_{1}=1, A_{2}=1, A_{3}=0$\n\n(d) $A_{0}=1, A_{1}=1, A_{2}=0, A_{3}=0$",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-8.jpg?height=445&width=608&top_left_y=734&top_left_x=267"
+        ],
+        "solution_text": "(c)\n\n[image1]\n\n$\\mathrm{f}=\\overline{\\mathrm{C}} \\overline{\\mathrm{D}} \\mathrm{I}_{0}+\\overline{\\mathrm{C}} \\mathrm{DI} \\mathrm{I}_{1}+\\mathrm{C} \\overline{\\mathrm{DI}} \\mathrm{I}_{2}+\\mathrm{CD} 1_{3}$\n\n$$\n[\\mathrm{C} \\oplus \\mathrm{D}]\n$$\n\nFor this\n\n$$\nA_{0}=0=A_{3}\n$$\n\nand\n\n$$\nA_{1}=A_{2}=1\n$$\n\nHence option (c)",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-8.jpg?height=317&width=445&top_left_y=1526&top_left_x=246"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "020",
+        "subject": "Technical",
+        "question_text": "The ideal long channel nMOSFET and pMOSFET devices shown in the circuits have threshold voltages of $1 \\mathrm{~V}$ and $-1 \\mathrm{~V}$, respectively. The MOSFET substrates are connected to their respective sources. Ignore leakage currents and assume that the capacitors are initially discharged. For the applied voltages as shown, the steady state voltages are $\\qquad$ .\n[image1]\n\n(a) $\\mathrm{V}_{1}=5 \\mathrm{~V}, \\mathrm{~V}_{2}=5 \\mathrm{~V}$\n\n(b) $\\mathrm{V}_{1}=5 \\mathrm{~V}, \\mathrm{~V}_{2}=4 \\mathrm{~V}$\n\n(c) $\\mathrm{V}_{1}=4 \\mathrm{~V}, \\mathrm{~V}_{2}=5 \\mathrm{~V}$\n\n(d) $\\mathrm{V}_{1}=4 \\mathrm{~V}, \\mathrm{~V}_{2}=-5 \\mathrm{~V}$",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-8.jpg?height=312&width=804&top_left_y=340&top_left_x=1091"
+        ],
+        "solution_text": "(c)\n\n[image1]",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-8.jpg?height=1302&width=582&top_left_y=977&top_left_x=1154"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "021",
+        "subject": "Technical",
+        "question_text": "Consider a closed-loop control system with unity negative feedback and $\\mathrm{KG}(\\mathrm{s})$ in the forward path, where the gain $K=2$. The complete Nyquist plot of the transfer function $G(s)$ is shown in the figure. Note that the Nyquist contour has been chosen to have the dockwise sense. Assume $\\mathrm{G}(\\mathrm{s})$ has no poles on the closed right-half of the\ncomplex plane The number of poles of the dosedloop transfer function in the closed right-half of the complex plane is $\\qquad$ .\n\n[image1]\n(a) 0\n(b) 1\n(c) 2\n(d) 3\n\n\\section*{",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-9.jpg?height=414&width=580&top_left_y=530&top_left_x=287"
+        ],
+        "solution_text": "(c)}\n\n[image1]\n\nFor $K=2$, point $A$ will be $-0.8 \\times 2=-1.6$\n\nHence\n\n$$\n\\begin{aligned}\n& N=-2 \\\\\n& P=0\n\\end{aligned}\n$$\n\n(By default Nyquist contoure is considered in clockwise direction)\n\n$$\n\\mathrm{P}-\\mathrm{N}=2\n$$\n\nNumber of closed loop pole in right side of the complex plane.",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-9.jpg?height=583&width=799&top_left_y=1162&top_left_x=180"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "022",
+        "subject": "Technical",
+        "question_text": "The root-locus plot of a closed-loop system with unity negative feedback and transfer function $\\mathrm{KG}(\\mathrm{s})$ in the forward path is shown in the figure. Note that $\\mathrm{K}$ is varied from 0 to $\\infty$.\n\nSelect the transfer function $\\mathrm{G}(\\mathrm{s})$ that results in the root-locus plot of the closed-loop system as shown in the figure.\n\n[image1]\n(a) $G(s)=\\frac{1}{(s+1)^{5}}$\n(b) $G(s)=\\frac{1}{s^{5}+1}$\n(c) $G(s)=\\frac{s-1}{(s+1)^{6}}$\n(d) $G(s)=\\frac{s+1}{s^{6}+1}$",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-9.jpg?height=528&width=805&top_left_y=341&top_left_x=1091"
+        ],
+        "solution_text": "(a)\n\n[image1]\n\nHere 5 Root Locus branches are diverging from same point, this can possible only when if we have 5 poles in the system at the same point because R oot Locus branch departs from open loop pole and\n\nNumber of Root Locus branches $=$ Number of open loop poles or Number of zero (Whichever is greater).\n\nHere, there are 5 multiple Real poles, and matching with option (A).",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7ed3cda94b26d95bc81ag-9.jpg?height=434&width=742&top_left_y=1191&top_left_x=1111"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "023",
+        "subject": "Technical",
+        "question_text": "The frequency response $\\mathrm{H}(\\mathrm{f})$ of a linear timeinvariant system has magnitude as shown in the figure.\n\nStatement I: The system is necessarily a pure delay system for inputs which are bandlimited to $-\\alpha \\leq f \\leq \\alpha$.\n\nStatement II: For any wide-sense stationary input process with power spectral density $S_{x}(\\mathrm{f})$, the output power spectral density $S_{Y}(\\mathrm{f})$ obeys $S_{Y}(f)=S_{X}(f)$ for $-\\alpha \\leq f \\leq \\alpha$.\n\n\nWhich one of the following combinations is true?\n\n[image1]\n\n(a) Statement I is correct, Statement II is correct\n\n(b) Statement I is correct, Statement II is incorrect\n\n(c) Statement I is incorrect, Statement II is correct\n\n(d) Statement I is incorrect, Statement II is incorrect",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_10_e1c0ec7e183e2e4e24e6g-01.jpg?height=306&width=514&top_left_y=418&top_left_x=317"
+        ],
+        "solution_text": "(c)\n[image1]\n\nFor the system to be delay system,\n\n$$\n\\begin{aligned}\ny(t) & =x\\left(t-t_{d}\\right) \\\\\ny(F) & =e^{-J \\omega t_{d}} \\times(F) \\\\\n\\Rightarrow \\quad H(F) & =\\frac{Y(F)}{X(F)}=e^{-J \\omega t_{d}} \\\\\n\\Rightarrow \\quad T F & \\text { of delay system }\n\\end{aligned}\n$$\n- Here given system is constant, hence this is not delay system, therefore statement-I is In correct\n- $S_{y}(f)=S_{x}(f) .|H(f)|^{2}$\n\nand $|H(f)|=1$ (given)\n\nHence, $S_{y}(f)=S_{x}(f)$ for $-\\alpha \\leq f \\leq \\alpha$\n\nStatement - II is correct.",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_10_e1c0ec7e183e2e4e24e6g-01.jpg?height=370&width=486&top_left_y=1176&top_left_x=336"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "024",
+        "subject": "Technical",
+        "question_text": "In a circuit, there is a series connection of an ideal resistor and an ideal capacitor. The conduction current (in Amperes) through the resistor is $2 \\sin (t+\\pi / 2)$. The displacement current (in Amperes) through the capacitor is $\\qquad$ .\n(a) $2 \\sin (\\mathrm{t})$\n(b) $2 \\sin (\\mathrm{t}+\\pi)$\n(c) $2 \\sin (\\mathrm{t}+\\pi / 2)$\n(d) 0\n\n\\section*{",
+        "question_image": [],
+        "solution_text": "(b)}\n\n$$\n\\mathrm{J}_{\\mathrm{d}}=\\epsilon \\frac{\\mathrm{dE}}{\\mathrm{dt}}\n$$\n\n$\\vec{J}_{d}$ leads $\\vec{J}_{c}$ by $90^{\\circ}$\n\nSo,\n\n$$\n\\begin{aligned}\n& \\mathrm{i}_{\\mathrm{d}}=\\left|\\mathrm{i}_{\\mathrm{c}}\\right| \\angle \\mathrm{i}_{\\mathrm{c}}+90^{\\circ} \\\\\n& \\mathrm{i}_{\\mathrm{d}}=2 \\sin \\left(\\mathrm{t}+\\frac{\\pi}{2}+\\frac{\\pi}{2}\\right) \\\\\n& \\mathrm{i}_{\\mathrm{d}}=2 \\sin (\\mathrm{t}+\\pi)\n\\end{aligned}\n$$",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "025",
+        "subject": "Technical",
+        "question_text": "Consider the following partial differential equation (PDE)\n\n$$\na \\frac{\\partial^{2} f(x, y)}{\\partial x^{2}}+b \\frac{\\partial^{2} f(x, y)}{\\partial y^{2}}=f(x, y)\n$$\n\nwhere $a$ and b are distinct positive real numbers. Select the combination(s) of values of the real parameters $\\xi$ and $\\eta$ such that $f(x, y)=e^{(\\xi x+)}$ is a solution of the given PDE.\n(a) $\\xi=\\frac{1}{\\sqrt{2 \\mathrm{a}}}, \\eta-\\frac{1}{\\sqrt{2 \\mathrm{~b}}}$\n(b) $\\xi=\\frac{1}{\\sqrt{\\mathrm{a}}}, \\eta=0$\n(c) $\\xi=0, \\eta=0$\n(d) $\\xi=\\frac{1}{\\sqrt{\\mathrm{a}}}, \\eta=\\frac{1}{\\sqrt{\\mathrm{b}}}$\n\n\\section*{",
+        "question_image": [],
+        "solution_text": "(a, b)}\n\nGiven: $f(x, y)=e^{(\\xi x+n y)}$\n\n$\\frac{\\partial f(x, y)}{\\partial x}=\\xi \\cdot e^{(\\xi x+\\eta y)}$\n\n$\\frac{\\partial^{2} f(x, y)}{\\partial x^{2}}=\\xi^{2} \\cdot e^{(\\xi x+n y)}$\n\nSimilarly, $\\frac{\\partial^{2} f(x, y)}{\\partial y^{2}}=\\eta^{2} \\cdot e^{(\\xi x+n y)}$\n\nNow, as given\n\n$a \\frac{\\partial^{2} f(x, y)}{\\partial x^{2}}+b \\frac{\\partial^{2} f(x, y)}{\\partial y^{2}}=f(x, y)$\n\nor\n\n$a \\times \\xi^{2} e^{(\\xi x+n y)}+b \\times \\eta^{2} e^{(\\xi x+n y)}=e^{(\\xi x+n y)}$\n\n$\\left(\\mathrm{a} \\cdot \\xi^{2}+\\mathrm{b} \\cdot \\eta^{2}\\right)=1$\n\nThus, $\\left(\\xi=\\frac{1}{\\sqrt{2 \\mathrm{a}}}, \\eta=\\frac{1}{\\sqrt{2 \\mathrm{~b}}}\\right)$\n\n\\section*{",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "026",
+        "subject": "Technical",
+        "question_text": "An ideal OPAMP circuit with a sinusoidal input is shown in the figure. The 3 dB frequency is the frequency at which the magnitude of the voltage gain decreases by 3 dB from the maximum value. Which of the options is/are correct?\n\n[image1]\n\n(a) The circuit is a low pass filter.\n\n(b) The circuit is a high pass filter.\n\n(c) The 3 dB frequency is $1000 \\mathrm{rad} / \\mathrm{s}$.\n\n(d) The 3 dB frequency is $\\frac{1000}{3} \\mathrm{rad} / \\mathrm{s}$.\n\n\\section*{",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_10_e1c0ec7e183e2e4e24e6g-02.jpg?height=288&width=665&top_left_y=827&top_left_x=250"
+        ],
+        "solution_text": "(b, c)}\n\n[image1]\n\nGain $=\\frac{V_{0}}{V_{I N}} \\frac{-2}{1+\\frac{1}{\\left(\\frac{j \\omega}{1000}\\right)}}$\n\n$\\left.\\begin{array}{l}\\omega \\rightarrow \\infty \\Rightarrow \\text { gain }=-2 \\\\ \\omega \\rightarrow 0 \\Rightarrow \\text { gain }=0\\end{array}\\right\\}$ HPF\n\n$\\omega_{\\mathrm{c}}=1000 \\mathrm{rad} / \\mathrm{sec}=$ cutoff frequency\n\nHence, it is HPF.",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_10_e1c0ec7e183e2e4e24e6g-02.jpg?height=534&width=765&top_left_y=1503&top_left_x=246"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "027",
+        "subject": "Technical",
+        "question_text": "Select the Boolean function(s) equivalent to $x+$ $y z$, where $x, y$, and $z$ are Boolean variables, and + denotes logical OR operation.\n(a) $x+z+x y$\n(b) $(x+y)(x+z)$\n(c) $x+x y+y z$\n(d) $x+x z+x y$\nA. $x+z+x y=x(1+y)+z=x+z$\nB. $(x+y)(x+z)=x+x z+x y+y z$\n\n$$\n\\begin{aligned}\n& =x(1+y+z)+y z \\\\\n& =x+y z\n\\end{aligned}\n$$\nC. $x+x y+y z=x(1+y)+y z$\n\n$$\n=x+y z\n$$\nD. $x+x z+x y=x(1+z+y)$\n\n$$\n=x\n$$\n\nOnly B \\& C gives $x+y z$",
+        "question_image": [],
+        "solution_text": "",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "028",
+        "subject": "Technical",
+        "question_text": "Select the correct statement(s) regarding CMOS implementation of NOT gates.\n\n(a) Noise Margin High ( $\\mathrm{NM}_{\\mathrm{H}}$ ) is always equal to the Noise Margin Low ( $\\mathrm{NM}_{\\mathrm{L}}$ ), irrespective of the sizing of transistors.\n\n(b) Dynamic power consumption during switching is zero.\n\n(c) For a logical high input under steady state, the nMOSFET is in the linear regime of operation.\n\n(d) Mobility of electrons never influences the switching speed of the NOT gate.",
+        "question_image": [],
+        "solution_text": "(c)\n\n(a) $\\mathrm{NM}_{\\mathrm{H}}$ will not be always equal to $\\mathrm{NM}_{\\mathrm{L}}$ because it depends on transistors parameters like size.\n\n$$\n\\begin{aligned}\n& \\mathrm{NM}_{\\mathrm{H}}=\\mathrm{V}_{\\mathrm{IL}}-\\mathrm{V}_{\\mathrm{OL}} \\\\\n& \\mathrm{NM}_{\\mathrm{L}}=\\mathrm{V}_{\\mathrm{OH}}-\\mathrm{V}_{\\mathrm{IH}}\n\\end{aligned}\n$$\n\nCondition for $\\mathrm{NM}_{\\mathrm{H}}=\\mathrm{NM}_{\\mathrm{L}}$ : When $\\mathrm{V}_{\\mathrm{TN}}=\\left|\\mathrm{V}_{\\mathrm{TP}}\\right|$\n\n$\\& V_{I P}=\\frac{V_{D D}}{2}$\n\nIf $\\frac{K_{p}}{K_{n}}>1$ then $N M_{H} \\neq N M_{L}$\n\n(b) Due to capacitive leading of stage, dynamic power consumption during switching will not be zero.\n\n(c) For $V_{D D}-\\left|V_{T P}\\right| \\leq V_{\\text {in }} \\leq V_{D D}$ [Iogic high input]\n\nPMOS $\\rightarrow$ cut off\n\nNMOS $\\rightarrow$ Linear\n\n(d) M dbility of electrons influences the switching speed because\n\nPropagation delay $=\\tau_{p}=\\frac{\\tau_{\\mathrm{PLH}}+\\mathrm{P}_{\\mathrm{PHL}}}{2}$\n\n[image1]\n\nTherefore (c) is only correct",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_10_e1c0ec7e183e2e4e24e6g-03.jpg?height=255&width=547&top_left_y=452&top_left_x=375"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "029",
+        "subject": "Technical",
+        "question_text": "Let $\\mathrm{H}(\\mathrm{X})$ denote the entropy of a discrete random variable $X$ taking K possible distinct real values. Which of the following statements is/are necessarily true?\n(a) $H(X) \\leq \\log _{2} K$ bits\n(b) $H(X) \\leq H(2 X)$\n(c) $H(X) \\leq H\\left(X^{2}\\right)$\n(d) $\\mathrm{H}(\\mathrm{X}) \\leq \\mathrm{H}\\left(2^{\\mathrm{X}}\\right)$",
+        "question_image": [],
+        "solution_text": "(a, b, d)\n\nLet $y=x^{2}$\n\n\\begin{tabular}{|c|c|c|}\n\\hline$X$ & $Y$ & $P(Y)$ \\\\\n\\hline-1 & 1 & $1 / 4$ \\\\\n\\hline 0 & 0 & $1 / 2$ \\\\\n\\hline 1 & 1 & $1 / 4$ \\\\\n\\hline\n\\end{tabular}\n\n\\begin{tabular}{|c|c|c|}\n\\hline$Y$ & 0 & 1 \\\\\n\\hline$P(Y)$ & $1 / 2$ & $1 / 2$ \\\\\n\\hline\n\\end{tabular}\n\n$$\nH\\left(X^{2}\\right)=H(Y)=\\Sigma P_{Y}\\left(Y_{i}\\right) \\log _{2} \\frac{1}{P_{Y}\\left(Y_{i}\\right)}\n$$\n\n$$\n=\\frac{1}{2} \\log _{2} 2+\\frac{1}{2} \\log _{2} 2=1 \\mathrm{bit} / \\text { symbol }\n$$\n\n$H(X)=\\frac{1}{4} \\log _{2} 4+\\frac{1}{2} \\log _{2} 2+\\frac{1}{4} \\log _{2} 4=1.5 \\mathrm{bit} /$ symbol\n\n$$\nH(X)>H\\left(X^{2}\\right)\n$$\n\nHence option (c) is not correct",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "030",
+        "subject": "Technical",
+        "question_text": "Consider the following wave equation,\n\n$\\frac{\\partial^{2} f(x, t)}{\\partial t^{2}}=10000 \\frac{\\partial^{2} f(x, t)}{\\partial x^{2}}$\n\nWhich of the given options is/are solution(s) to the given wave equation?\n\n(a) $f(x, t)=e^{-(x-100 t)^{2}}+e^{-(x+100 t)^{2}}$\n\n(b) $f(x, t)=e^{-(x-100 t)}+0.5 e^{-(x+1000 t)}$\n\n(c) $f(x, t)=e^{-(x-100 t)}+\\sin (x+100 t)$\n\n(d) $f(x, t)=e^{j 100 \\pi(-100 x+t)}+e^{j 100 \\pi(100 x+t)}$\n\n\\section*{",
+        "question_image": [],
+        "solution_text": "(a, c)}\n\nAs we know, wave equation is given by\n\n$$\n\\frac{\\partial^{2} f(x, t)}{\\partial x^{2}}=\\frac{c^{2} d^{2} f(x, t)}{d t^{2}}\n$$\n\nHere, option (a) \\& (c) are satisfying the above standard wave equation.",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "031",
+        "subject": "Technical",
+        "question_text": "The bar graph shows the frequency of the number of wickets taken in a match by a bowler in her career. For example, in 17 of her matches, the bowler has taken 5 wickets each. The median number of wickets taken by the bowler in a match is $\\qquad$ (rounded off to one decimal place).\n\n[image1]",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_10_e1c0ec7e183e2e4e24e6g-03.jpg?height=295&width=721&top_left_y=1086&top_left_x=1116"
+        ],
+        "solution_text": "(4)\n\n$\\Sigma$ frequency of No. of wickets $=5+7+8+25$ $+20+17+8+4+3+2+1=100$\n\nMean $=$ Average of the $50^{\\text {th }} \\& 51^{\\text {th }}$ matches $=4$",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "032",
+        "subject": "Technical",
+        "question_text": "A simple closed path C in the complex plane is shown in the figure. If\n\n$\\oint_{C} \\frac{2^{z}}{z^{2}-1} d z=-i \\pi A \u00ef\u00bc\u0152$\n\nwhere $i=\\sqrt{-1}$, then the value of $A$ is $\\qquad$ (rounded off to two decimal places).\n\n[image1]",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_10_e1c0ec7e183e2e4e24e6g-03.jpg?height=497&width=640&top_left_y=2033&top_left_x=1162"
+        ],
+        "solution_text": "$(1 / 2=0.5)$\n\n$$\n\\oint_{C} \\frac{2^{z}}{z^{2}-1} d z\n$$\n\nRoots $(z-1)(z+1)=0$\n\n$$\n\\begin{aligned}\n& z= \\pm 1 \\\\\n& z=-1 \\text { is in contour } \\\\\n& \\Rightarrow \\quad \\oint_{c} \\frac{2^{z}}{z^{2}-1} d z=\\left[\\lim _{z \\rightarrow-1} \\frac{(z+1) \\cdot 2^{z}}{(z+1)(z-1)}\\right] * 2 \\pi i \\\\\n& =\\frac{2^{-1}}{(-1-1)} \\times 2 \\pi \\mathrm{i} \\\\\n& =-\\frac{1}{2} \\pi i \\\\\n& \\Rightarrow \\quad A=1 / 2=0.5\n\\end{aligned}\n$$",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "033",
+        "subject": "Technical",
+        "question_text": "Let $x_{1}(t)=e^{-t} u(t)$ and $x_{2}(t)=u(t)-u(t-2)$, where $u($.$) denotes the unit step function.$\n\nIf $y(t)$ denotes the convolution of $x_{1}(t)$ and $x_{2}(t)$, then $\\lim _{\\mathrm{t} \\rightarrow \\infty} \\mathrm{y}(\\mathrm{t})=$ $\\qquad$ (rounded off to one decimal place).",
+        "question_image": [],
+        "solution_text": "(0)\n\n$$\n\\begin{aligned}\n& \\mathrm{x}_{1}(\\mathrm{t})=\\mathrm{e}^{-\\mathrm{t}} \\mathrm{U}(\\mathrm{t}) \\stackrel{\\text { L.T. }}{\\longleftrightarrow} \\frac{1}{(\\mathrm{~s}+1)} \\\\\n& \\mathrm{x}_{2}(\\mathrm{t})=\\mathrm{U}(\\mathrm{t})-\\mathrm{U}(\\mathrm{t}-2) \\stackrel{\\text { L.T }}{\\mathrm{s}}-\\frac{1}{\\mathrm{~s}}=\\frac{\\mathrm{e}^{-2 s}}{\\mathrm{~s}} \\\\\n& \\mathrm{y}(\\mathrm{t})=\\mathrm{x}_{1}(\\mathrm{t}) \\otimes \\mathrm{x}_{2}(\\mathrm{t}) \\longleftrightarrow \\frac{1-\\mathrm{e}^{-2 s}}{\\mathrm{~s}(\\mathrm{~s}+1)} \\\\\n& \\mathrm{y}(\\mathrm{t}) \\stackrel{\\text { L.T. }}{\\longleftrightarrow} \\frac{1-\\mathrm{e}^{-2 s}}{\\mathrm{~s}(\\mathrm{~s}+1)} \\\\\n& \\lim _{\\mathrm{t} \\rightarrow \\infty} \\mathrm{y}(\\mathrm{t})=\\lim _{\\mathrm{s} \\rightarrow 0} \\frac{\\mathrm{s} \\cdot\\left(1-\\mathrm{e}^{-2 s}\\right)}{\\mathrm{s}(\\mathrm{s}+1)}=0\n\\end{aligned}\n$$",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "034",
+        "subject": "Technical",
+        "question_text": "An ideal MOS capacitor (p-type semi conductor) is shown in the figure. the MOS capacitor is under strong inversion with $\\mathrm{V}_{\\mathrm{G}}=2 \\mathrm{~V}$. the corresponding inversion charge density ( $\\mathrm{Q}_{\\text {IN }}$ ) is $2.2 \\mu \\mathrm{C} / \\mathrm{cm}^{2}$. Assume oxide capacitance per unit area as $\\mathrm{C}_{\\mathrm{Ox}}=1.7 \\mu \\mathrm{F} / \\mathrm{cm}^{2}$. F or $\\mathrm{V}_{\\mathrm{G}}=4 \\mathrm{~V}$, the value of $\\mathrm{Q}_{\\text {IN }}$ is $\\qquad$ $\\mu \\mathrm{C} / \\mathrm{cm}^{2}$ (rounded off to one decimal place).\n\n[image1]",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_10_e1c0ec7e183e2e4e24e6g-04.jpg?height=169&width=531&top_left_y=2360&top_left_x=314"
+        ],
+        "solution_text": "(5.6)\n\n$$\n\\begin{align*}\n\\mathrm{Q}_{\\mathrm{IN}} & =-\\mathrm{CO}_{\\mathrm{x}}\\left(\\mathrm{V}_{\\mathrm{G}}-\\mathrm{V}_{\\mathrm{T}}\\right) \\\\\n\\mathrm{Q}_{\\mathrm{IN}_{1}} & =-\\mathrm{CO}_{\\mathrm{x}}\\left(\\mathrm{V}_{\\mathrm{G} 1}-\\mathrm{V}_{\\mathrm{T}}\\right) \\tag{i}\n\\end{align*}\n$$\n\n$$\n\\begin{equation*}\n\\mathrm{Q}_{\\mathrm{IN}_{2}}=-\\mathrm{CO}_{\\mathrm{x}}\\left(\\mathrm{V}_{\\mathrm{G} 2}-\\mathrm{V}_{\\mathrm{T}}\\right) \\tag{ii}\n\\end{equation*}\n$$\n\n(ii) - (i)\n\n$$\n\\begin{gathered}\n\\mathrm{Q}_{\\mathrm{N}_{2}}=\\mathrm{Q}_{\\mathrm{IN}_{1}}=-\\mathrm{CO}_{\\mathrm{x}}\\left(\\mathrm{V}_{\\mathrm{G} 2}-\\mathrm{V}_{\\mathrm{G} 1}\\right) \\\\\n\\mathrm{Q}_{\\mathrm{IN}_{2}}-\\left(-2.2 \\mu \\mathrm{C} / \\mathrm{cm}^{2}\\right)=-1.7 \\mu \\mathrm{f} / \\mathrm{cm}^{2}(4-2) \\\\\n\\mathrm{Q}_{\\mathrm{IN}_{2}}=2.2 \\mu \\mathrm{c} / \\mathrm{cm}^{2}-3.4 \\mu \\mathrm{c} / \\mathrm{cm}^{2} \\\\\n=-5.6 \\mu \\mathrm{c} / \\mathrm{cm}^{2}\n\\end{gathered}\n$$",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "035",
+        "subject": "Technical",
+        "question_text": "A symbol stream contains alternate QPSK and 16-QAM symbols. If symbols from this stream are transmitted at the rate of 1 mega-symbols per second, the raw (uncoded) data rate is $\\qquad$ mega-bits per second (rounded off to one decimal place).\n\n\\section*{",
+        "question_image": [],
+        "solution_text": "(3)}\n\nBIT RATE $=[S Y M B O L$ RATE $] * \\log _{20} \\mathrm{M}$\n\n1. QPSK, $M=4, n=2$\n\n$$\n\\mathrm{R}_{\\mathrm{b} 1}=1 \\times 2=2 \\mathrm{mbps}\n$$\n2. $16 Q A M_{1} \\Rightarrow M=16, \\quad n=4$\n\n$$\n\\mathrm{R}_{\\mathrm{b} 2}=1 \\times 4=4 \\mathrm{mbps}\n$$\n\n$$\n\\begin{aligned}\n& R_{b}=\\frac{2 m+4 m}{2} \\\\\n& R_{b}=3 m b p s\n\\end{aligned}\n$$",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "036",
+        "subject": "Technical",
+        "question_text": "The function $f(x)=8 \\log _{e} x-x^{2}+3$ attains its minimum over the interval [1, e] at $x=$ $\\qquad$ .\n\n(Here $\\log _{e} \\mathrm{x}$ is the natural logarithm of x .)\n(a) 2\n(b) 1\n(c) e\n(d) $\\frac{1+e}{2}$",
+        "question_image": [],
+        "solution_text": "(b)\n\n$$\nf(x)=8 \\log _{e} x-x^{2}+3 \\text { when } x \\in[1, e]\n$$\n\nDifferentiating both side,\n\n$$\n\\begin{aligned}\nf(x) & =\\frac{8}{x}-2 x=0 ; \\text { where } x>0 \\\\\nf^{\\prime}(x) & =0 \\\\\n\\frac{8}{x}-2 x & =0 \\quad \\Rightarrow 8-2 x^{2}=0 \\\\\n2 x^{2} & =8 \\\\\nx^{2} & =4 \\\\\nx & = \\pm 2\n\\end{aligned}\n$$\n$x=2$ which is in $\\in[1, \\mathrm{e}]$\n\n$$\n\\begin{aligned}\n& f^{\\prime \\prime}(x)=\\frac{-8}{x^{2}}-2 \\\\\n& f^{\\prime \\prime}(2)=-6<0\n\\end{aligned}\n$$\n\n$\\therefore \\mathrm{f}(\\mathrm{x})$ is maximum for $\\mathrm{x}=2$\n\n$\\therefore$ Minimum of $f(x)$ will be in $[1$, e]\n\n$=\\min [f(1), f(e)]$\n\n$$\nf(e)=8 \\ell \\text { ne }-e^{2}+3=3.61\n$$\n\nHence, minimum value of $f(x)$ occurs at $x=1$",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "037",
+        "subject": "Technical",
+        "question_text": "Let $\\alpha, \\beta$ be two non-zero real numbers and $v_{1}$, $v_{2}$ be two non-zero real vectors of size $3 \\times 1$. Suppose that $v_{1}$ and $v_{2}$ satisfy $v_{1}^{\\top} v_{2}=0$, $v_{1}^{\\top} v_{1}=1$, and $v_{2}^{\\top} v_{2}=1$. Let $A$ be the $3 \\times 3$ matrix given by:\n\n$A=\\alpha v_{1} v_{1}^{\\top}+\\beta v_{2} v_{2}^{\\top}$\n\nThe eigenvalues of $A$ are $\\qquad$ .\n(a) $0, \\alpha, \\beta$\n(b) $0, \\alpha+\\beta, \\alpha-\\beta$\n(c) $0, \\frac{\\alpha+\\beta}{2}, \\sqrt{\\alpha \\beta}$\n(d) $0,0, \\sqrt{\\alpha^{2}+\\beta^{2}}$",
+        "question_image": [],
+        "solution_text": "(a)\n\n$$\n\\begin{aligned}\nA & =\\alpha\\left[\\begin{array}{l}\na \\\\\nb \\\\\nc\n\\end{array}\\right]\\left[\\begin{array}{lll}\na & b & c\n\\end{array}\\right]+\\beta\\left[\\begin{array}{l}\nd \\\\\ne \\\\\nb\n\\end{array}\\right]\\left[\\begin{array}{lll}\nd & e & b\n\\end{array}\\right] \\\\\n& =\\alpha\\left[\\begin{array}{ccc}\na^{2} & 0 & 0 \\\\\n0 & b^{2} & 0 \\\\\n0 & 0 & c^{2}\n\\end{array}\\right]+\\beta\\left[\\begin{array}{ccc}\nd^{2} & 0 & 0 \\\\\n0 & e^{2} & 0 \\\\\n0 & 0 & p^{2}\n\\end{array}\\right]\n\\end{aligned}\n$$\n\nTrace $\\Rightarrow \\alpha\\left(a^{2}+b^{2}+c^{2}\\right)+\\beta\\left(d^{2}+e^{2}+f^{2}\\right)$\n\n$$\n=\\alpha+\\beta\n$$\n\nAlternate:\n\n$$\n\\begin{aligned}\n\\mathrm{AV}_{1} & =\\alpha \\mathrm{VV}_{1}^{\\top} \\mathrm{V}_{1}+\\beta \\mathrm{V}_{2} \\mathrm{~V}_{2}^{\\top} \\mathrm{V}_{1} \\\\\n\\mathrm{AV}_{1} & =\\alpha(1) \\mathrm{V}_{1}+\\beta(0)=\\alpha \\mathrm{V}_{1} \\\\\n\\mathrm{AV}_{1} & =\\alpha \\mathrm{V}_{1} \\\\\n\\mathrm{Ax} & =\\lambda \\mathrm{X}\n\\end{aligned}\n$$\n\nSo, eigen value, $\\alpha, \\beta, 0$",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "038",
+        "subject": "Technical",
+        "question_text": "For the circuit shown, the locus of the impedance $\\mathrm{Z}(\\mathrm{j} \\omega)$ is plotted as $\\omega$ increases from zero to infinity. The values of $R_{1}$ and $R_{2}$ are:\n[image1]\n\n(a) $\\mathrm{R}_{1}=2 \\mathrm{k} \\Omega, \\mathrm{R}_{2}=3 \\mathrm{k} \\Omega$\n\n(b) $\\mathrm{R}_{1}=5 \\mathrm{k} \\Omega, \\mathrm{R}_{2}=2 \\mathrm{k} \\Omega$\n\n(c) $\\mathrm{R}_{1}=5 \\mathrm{k} \\Omega, \\mathrm{R}_{2}=2.5 \\mathrm{k} \\Omega$\n\n(d) $R_{1}=2 \\mathrm{k} \\Omega, \\mathrm{R}_{2}=5 \\mathrm{k} \\Omega$",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_10_e1c0ec7e183e2e4e24e6g-05.jpg?height=270&width=752&top_left_y=394&top_left_x=1116"
+        ],
+        "solution_text": "(a)\n\n$$\n\\begin{aligned}\n& Z(j \\omega)=R_{1}+\\frac{R_{2} \\cdot 1 / j \\omega C}{R_{2}+1 / j \\omega C}=R_{1}+\\frac{R_{2}}{\\frac{1}{2}+j R_{2} \\omega c} \\\\\n& Z(j \\omega)_{\\omega=0}=R_{1}+R_{2} \\\\\n& \\Rightarrow R_{1}+R_{2}=5 k \\Omega \\\\\n& Z|j \\omega|_{\\omega \\rightarrow \\infty}=R_{1} \\\\\n& \\Rightarrow \\quad R_{1}=2 k \\Omega \\\\\n& \\text { So, } \\quad R_{2}=3 k \\Omega \\\\\n& \\text { So, } \\quad R_{1}=2 k \\Omega \\& R_{2}=3 k \\Omega\n\\end{aligned}\n$$",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "039",
+        "subject": "Technical",
+        "question_text": "Consider the circuit shown in the figure with input $\\mathrm{V}(\\mathrm{t})$ in volts. The sinusoidal steady state current $I(t)$ flowing through the circuit is shown graphically (where t is in seconds). The circuit element $Z$ can be $\\qquad$ .\n\n[image1]\n\n(a) a capacitor of 1 F\n\n(b) an inductor of 1 H\n\n(c) a capacitor of $\\sqrt{3} \\mathrm{~F}$\n\n(d) an inductor of $\\sqrt{3} \\mathrm{H}$",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_10_e1c0ec7e183e2e4e24e6g-05.jpg?height=315&width=759&top_left_y=1867&top_left_x=1111"
+        ],
+        "solution_text": "(b)\n\n$i(t)=\\frac{V(t)}{1+Z}$ where, $V(t)=\\sin t$\n\n$\\because$ Given $\\mathrm{i}(\\mathrm{t})$ is lagging (from plot)\n\n$$\n\\begin{aligned}\n& I_{\\max }=\\frac{V_{\\max }}{Z}=\\frac{1}{Z} \\\\\n& \\Rightarrow \\quad Z=1 / \\sqrt{2} \\\\\n& Z=(1+j \\omega L) \\Rightarrow L=1\n\\end{aligned}\n$$",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "040",
+        "subject": "Technical",
+        "question_text": "Consider an ideal long channel nMOSFET (enhancement-mode) with gate length $10 \\mu \\mathrm{m}$ and width $100 \\mu \\mathrm{m}$. The product of electron mobility $\\left(\\mu_{\\mathrm{n}}\\right)$ and oxide capacitance per unit area $\\left(\\mathrm{C}_{\\mathrm{OX}}\\right)$ is $\\mu_{\\mathrm{n}} \\mathrm{C}_{\\mathrm{OX}}=1 \\mathrm{~mA} \\mathrm{~N}^{2}$. The threshold voltage of the transistor is 1 V . For a gate-tosource voltage $\\mathrm{V}_{\\mathrm{GS}}=[2-\\sin (2 \\mathrm{t})] \\mathrm{V}$ and drainto-source voltage $\\mathrm{V}_{\\mathrm{DS}}=1 \\mathrm{~V}$ (substrate connected to the source), the maximum value of the drainto-source current is $\\qquad$ .\n(a) 40 mA\n(b) 20 mA\n(c) 15 mA\n(d) 5 mA",
+        "question_image": [],
+        "solution_text": "(c)\n\nGiven\n\n$\\mu_{\\mathrm{n}} \\mathrm{Co}_{\\mathrm{x}}=1 \\mathrm{~mA} \\mathrm{~N}^{2} ; W=100 \\mu \\mathrm{m} ; \\mathrm{L}=10 \\mu \\mathrm{m}$\n\n$V_{T}=\\perp V ; V_{G S}=[2-\\sin 2 t] V ; V_{D S}=1 V$\n\n$\\mathrm{V}_{\\mathrm{GS}}$\n\n[image1]\n\n$V_{G S \\text { min }}$\n\n$$\n\\begin{aligned}\n\\text { Let, } & \\mathrm{V}_{\\mathrm{GS}} & =3 \\mathrm{~V} \\text { (max) } \\\\\n\\Rightarrow & \\mathrm{V}_{\\mathrm{DS}} & <\\mathrm{V}_{\\mathrm{GS}}-\\mathrm{V}_{\\mathrm{t}} \\\\\n\\because & 1 & <(3-1)\n\\end{aligned}\n$$\n\nMOSFET in triode region\n\n$$\n\\begin{aligned}\n\\mathrm{I}_{\\mathrm{D} \\max } & =\\mu_{\\mathrm{n}} \\mathrm{Co}_{\\mathrm{x}}\\left(\\frac{\\omega}{\\mathrm{L}}\\right)\\left\\{\\left(\\mathrm{V}_{\\mathrm{asmax}}-\\mathrm{V}_{\\mathrm{t}}\\right) \\mathrm{V}_{\\mathrm{DS}}-\\frac{1}{2} \\mathrm{~V}_{\\mathrm{DS}}^{2}\\right\\} \\\\\n& =1 \\times\\left(\\frac{100}{10}\\right)\\left\\{(3-1) \\times 1-\\frac{1}{2} \\times 1^{2}\\right\\} \\mathrm{mA} \\\\\n& =10(2-1 / 2) \\\\\n\\mathrm{I}_{\\mathrm{D} \\max } & =15 \\mathrm{~mA}\n\\end{aligned}\n$$",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_10_e1c0ec7e183e2e4e24e6g-06.jpg?height=193&width=436&top_left_y=1568&top_left_x=273"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "041",
+        "subject": "Technical",
+        "question_text": "For the following circuit with an ideal OPAMP, the difference between the maximum and the minimum values of the capacitor voltage $\\left(\\mathrm{V}_{\\mathrm{c}}\\right)$ is $\\qquad$ .\n[image1]\n(a) 15 V\n(b) 27 V\n(c) 13 V\n(d) 14 V",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_10_e1c0ec7e183e2e4e24e6g-06.jpg?height=300&width=806&top_left_y=352&top_left_x=1086"
+        ],
+        "solution_text": "(c)\n\n[image1]\n\nWhen\n\n[image2]\n\n$$\n\\begin{aligned}\n& \\text { When } \\mathrm{V}_{0}=-12 \\mathrm{~V} \\\\\n& \\qquad \\mathrm{~V}^{+}=\\frac{2 \\mathrm{R}}{3 \\mathrm{R}} \\times(-12)\n\\end{aligned}\n$$\n\n[image3]",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_10_e1c0ec7e183e2e4e24e6g-06.jpg?height=1025&width=731&top_left_y=841&top_left_x=1116",
+            "https://cdn.mathpix.com/cropped/2024_07_10_e1c0ec7e183e2e4e24e6g-06.jpg?height=568&width=774&top_left_y=1920&top_left_x=1098",
+            "https://cdn.mathpix.com/cropped/2024_07_10_e1c0ec7e183e2e4e24e6g-07.jpg?height=485&width=828&top_left_y=337&top_left_x=160"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "042",
+        "subject": "Technical",
+        "question_text": "A circuit with an ideal OPAMP is shown. The Bode plot for the magnitude (in dB ) of the gain transfer function $\\left(A_{V}(\\mathrm{j} \\omega)=\\mathrm{V}_{\\text {out }}(\\mathrm{j} \\omega) / \\mathrm{V}_{\\text {in }}(\\mathrm{j} \\omega)\\right)$ of the circuit is also provided (here, $\\omega$ is the angular frequency in rad/s). The values of $R$ and $C$ are $\\qquad$ .\n[image1]\n\n(a) $\\mathrm{R}=3 \\mathrm{k} \\Omega, \\mathrm{C}=1 \\mu \\mathrm{F}$\n\n(b) $\\mathrm{R}=1 \\mathrm{k} \\Omega, \\mathrm{C}=3 \\mu \\mathrm{F}$\n\n(c) $\\mathrm{R}=4 \\mathrm{k} \\Omega, \\mathrm{C}=1 \\mu \\mathrm{F}$\n\n(d) $\\mathrm{R}=3 \\mathrm{k} \\Omega, \\mathrm{C}=2 \\mu \\mathrm{F}$",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_10_e1c0ec7e183e2e4e24e6g-07.jpg?height=326&width=844&top_left_y=1156&top_left_x=158"
+        ],
+        "solution_text": "(a)\n\n$$\n\\operatorname{Av}(j \\omega)=\\frac{V_{\\text {out }}(j \\omega)}{V_{\\text {in }}(j \\omega)}\n$$\n\n[image1]\n\n$$\n\\begin{aligned}\n& V^{+}=\\frac{1}{1+j \\omega(1 K) \\times C} V_{\\text {in }} \\\\\n& \\& \\quad V^{+}=\\frac{1 k}{1 \\mathrm{k}+\\mathrm{R}} \\times \\mathrm{V}_{\\text {out }}\n\\end{aligned}\n$$\n\n$$\n\\begin{aligned}\n\\frac{1(k)}{1 k+R} V_{\\text {out }} & =\\frac{1}{1+j \\omega(1 k) \\cdot C} V_{\\text {in }} \\\\\n\\frac{V_{\\text {out }}(j \\omega)}{V_{\\text {in }}(j \\omega)} & =\\frac{1 k+R}{1 k+j \\omega(1 k) \\cdot(1 k) C}=\\frac{(R+1)}{1+j \\omega C} \\\\\n\\left|A_{v}\\right| & =\\frac{(R+1)^{2} \\times 10^{6}}{\\sqrt{10^{6}+\\omega^{2}\\left(10^{6} \\times 10^{-6}\\right)^{2} C^{2}}}\n\\end{aligned}\n$$\n\nLet, $R$ in $k \\Omega$\n\n$\\& \\quad C$ in $\\mu F$\n\n[image2]\n\nGain decreases by 3 dB\n\nfrom 12 to 9\n\nSo, $\\log _{10} \\omega_{c}=3$ is $3-d B$ freq.\n\n$$\n\\begin{aligned}\n20 \\log _{10} A_{\\max } & =12 \\\\\n\\Rightarrow \\quad A_{\\max } & \\simeq 4 \\\\\n1+\\frac{R_{2}}{R_{1}} & =4 \\\\\n\\mathrm{R}_{2} & =3 \\mathrm{R}_{1}=3 \\mathrm{k} \\Omega \\\\\n\\because \\quad \\log _{10} \\omega_{c} & =3 \\\\\n\\Rightarrow \\quad \\omega_{c} & =10^{3} \\mathrm{rad} / \\mathrm{sec} \\\\\n\\omega_{c} & =\\frac{1}{\\mathrm{R}_{1} \\mathrm{C}} \\Rightarrow C=\\frac{1}{10^{3} \\times 10^{3}}=1 \\mu \\mathrm{F}\n\\end{aligned}\n$$",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_10_e1c0ec7e183e2e4e24e6g-07.jpg?height=448&width=757&top_left_y=2015&top_left_x=198",
+            "https://cdn.mathpix.com/cropped/2024_07_10_e1c0ec7e183e2e4e24e6g-07.jpg?height=397&width=782&top_left_y=858&top_left_x=1094"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "043",
+        "subject": "Technical",
+        "question_text": "F or the circuit shown, the clock frequency is $f_{0}$ and the duty cycle is $25 \\%$. For the signal at the Q output of the Flip-Flop, $\\qquad$ .\n\n[image1]\n\n(a) Frequency is $\\mathrm{f}_{0} / 4$ and duty cycle is $50 \\%$\n\n(b) Frequency of $\\mathrm{f}_{0} / 4$ and duty cycle is $25 \\%$\n(c) Frequency is $f_{0} / 2$ and duty cycle is $50 \\%$\n\n(d) Frequency is $\\mathrm{f}_{0}$ and duty cycle is $25 \\%$",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_10_e1c0ec7e183e2e4e24e6g-07.jpg?height=354&width=763&top_left_y=2202&top_left_x=1109"
+        ],
+        "solution_text": "(a)\n\n[image1]\n\nLSB 0, 1, 0,1\n\nFor JK flip-flop (FF), 00 will not change the state\n\nSo, output frequency $\\mathrm{f}_{0} / 2$\n\n$\\because$ Two time change of state and duty cycle $=$ $50 \\%$.\n\n[image2]\n\nDuty cycle $=50 \\%$",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_10_e1c0ec7e183e2e4e24e6g-08.jpg?height=654&width=736&top_left_y=524&top_left_x=206",
+            "https://cdn.mathpix.com/cropped/2024_07_10_e1c0ec7e183e2e4e24e6g-08.jpg?height=445&width=771&top_left_y=1531&top_left_x=194"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "044",
+        "subject": "Technical",
+        "question_text": "Consider an even polynomial $p(s)$ given by\n\n$\\mathrm{p}(\\mathrm{s})=\\mathrm{s}^{4}+5 \\mathrm{~s}^{2}+4+K$,\n\nwhere $K$ is an unknown real parameter. The complete range of $K$ for which $p(s)$ has all its roots on the imaginary axis is $\\qquad$\n(a) $-4 \\leq K \\leq \\frac{9}{4}$\n(b) $-3 \\leq \\mathrm{K} \\leq \\frac{9}{2}$\n(c) $-6 \\leq K \\leq \\frac{5}{4}$\n(d) $-5 \\leq K \\leq 0$",
+        "question_image": [],
+        "solution_text": "(a)\n\n$$\np(s)=s^{4}+5 s^{2}+4+k\n$$\n\n$$\n\\begin{aligned}\n& s^{4} 15(4+k) \\\\\n& s^{3} 00 \\\\\n& \\mathrm{~s}^{2} \\\\\n& s^{1} \\\\\n& S_{0} \\\\\n& s^{4}+5 s^{2}+(4+k)=0 \\\\\n& 4 s^{3}+10 s=0 \\\\\n& \\&\\left(4 s^{2}+10\\right)=0 \\\\\n& s= \\pm j \\sqrt{5 / 2} \\\\\n& \\begin{array}{cc}\ns^{4} & 1 \\\\\ns^{3} & 4 \\\\\ns^{2} & 5 / 2 \\\\\ns^{1} & 10-\\frac{4(4+k)}{5 / 2}\n\\end{array} \\\\\n& s^{0} \\quad(4+k) \\\\\n& (4+K)>0 \\\\\n& K>-4 \\\\\n& 10 \\times \\frac{5}{2}>4(4+K) \\\\\n& (4+K)<\\frac{25}{4} \\\\\n& K<9 / 4\n\\end{aligned}\n$$",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "045",
+        "subject": "Technical",
+        "question_text": "Consider the following series:\n\n$$\n\\sum_{n=1}^{\\infty} \\frac{n^{d}}{c^{n}}\n$$\n\nFor which of the following combinations of $\\mathrm{c}, \\mathrm{d}$ values does this series converge?\n(a) $c=1, d=-1$\n(b) $c=2, d=1$\n(c) $\\mathrm{c}=0.5, \\mathrm{~d}=-10$\n(d) $c=1, d=-2$\n\n\\section*{",
+        "question_image": [],
+        "solution_text": "(b, d)}\n\n$\\sum_{n=1}^{\\infty} \\frac{n^{d}}{c^{n}}$ series converage for\n\nRatio test $\\lim _{n \\rightarrow \\infty} \\frac{U_{n+1}}{U_{n}}$\n\nOption (b) c $=2, d=1 \\Rightarrow \\Sigma U_{n} \\sum U_{n}=\\sum \\frac{n}{2^{n}}$\n\n$\\lim _{n \\rightarrow \\infty} \\frac{U_{n+1}}{U_{n}}=\\lim _{n \\rightarrow \\infty} \\frac{(n+1)}{2^{n+1}} \\times \\frac{2^{n}}{n}=\\frac{1}{2}<1$\n\n\n\nOption (a) c = 1, d $=-1$\n\n$\\Rightarrow \\sum \\mathrm{U}_{\\mathrm{n}}=\\sum \\frac{\\mathrm{n}^{-1}}{\\mathrm{I}^{\\mathrm{n}}}=\\sum \\frac{1}{\\mathrm{n}}$\n\n$\\sum \\frac{1}{n}$ is divergent by p -test\n\nOption (c) $c=0.5, d=-10$\n\n$\\Rightarrow \\sum \\mathrm{U}_{\\mathrm{n}}=\\sum \\frac{\\mathrm{n}^{-10}}{\\left(\\frac{1}{2}\\right)^{\\mathrm{n}}}$\n\n$\\lim _{n \\rightarrow \\infty} \\frac{U_{n+1}}{U_{n}}=\\lim _{n \\rightarrow \\infty} \\frac{(n+1)^{-10}}{\\left(\\frac{1}{2}\\right)^{n+1}} \\times \\frac{(1 / 2)^{n}}{n^{-10}}=2>1$\n\nDivergent by ratio test.\n\nOption (d) c $=1, d=-2$\n\n$\\Rightarrow \\sum U_{n}=\\sum \\frac{\\mathrm{n}^{-2}}{1^{\\mathrm{n}}}=\\sum \\frac{1}{\\mathrm{n}^{2}}$\n\n$\\therefore \\quad \\sum \\frac{1}{\\mathrm{n}^{2}}$ is convergent by p-test\n\n$\\because \\quad \\sum \\frac{1}{\\mathrm{np}} \\mathrm{p}>1$.",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "046",
+        "subject": "Technical",
+        "question_text": "The outputs of four systems $\\left(\\mathrm{S}_{1}, \\mathrm{~S}_{2}, \\mathrm{~S}_{3}\\right.$ and $\\left.\\mathrm{S}_{4}\\right)$ corresponding to the input signal sin(t), for all time $t$, are shown in the figure.\n\nBased on the given information, which of the four systems is/are definitely NOT LTI (linear and time-invariant)?\n\n[image1]\n(a) $\\mathrm{S}_{1}$\n(b) $\\mathrm{S}_{2}$\n(c) $\\mathrm{S}_{3}$\n(d) $\\mathrm{S}_{4}$\n\n\\section*{",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_10_e1c0ec7e183e2e4e24e6g-10.jpg?height=391&width=466&top_left_y=1912&top_left_x=338"
+        ],
+        "solution_text": "(c \\& d)}\n\nLinearity:\n\n$\\mathrm{ax}_{1}(\\mathrm{t})+\\mathrm{bx}_{2}(\\mathrm{t}) \\xrightarrow{\\text { sys }} \\mathrm{ay}_{1}(\\mathrm{t})+\\mathrm{by}_{2}(\\mathrm{t})$\n\nTime - Invariant:\n\n$$\n\\begin{aligned}\n& x\\left(t+t_{0}\\right) \\xrightarrow{\\text { sys }} y\\left(t+t_{0}\\right) \\\\\n& S_{1}: x\\left(t+t_{0}\\right)=\\sin \\left(t+t_{0}\\right) \\xrightarrow{s_{1}} \\sin \\left(-\\left(t+t_{0}\\right)\\right) \\\\\n& \\because \\sin (-t)=-\\sin (t)\n\\end{aligned}\n$$\n\nMay be LTI sys\n[image1]\n\nLTI sys\n\n$$\n\\begin{aligned}\n& \\mathrm{S}_{3}: \\xrightarrow{\\sin \\left(\\mathrm{t}+\\mathrm{t}_{0}\\right)} \\rightarrow \\mathrm{S}_{3} \\rightarrow \\sin \\left(2\\left(\\mathrm{t}+\\mathrm{t}_{0}\\right)\\right. \\\\\n& \\because \\sin \\left(2 \\mathrm{t}+\\mathrm{t}_{0}\\right) \\neq \\sin \\left(2\\left(\\mathrm{t}+\\mathrm{t}_{0}\\right)\\right.\n\\end{aligned}\n$$\n\nTime-variant (Not LTI sys)\n\n[image2]\n\nLinear and Time - variant (not LTI)",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_10_e1c0ec7e183e2e4e24e6g-10.jpg?height=260&width=742&top_left_y=648&top_left_x=1156",
+            "https://cdn.mathpix.com/cropped/2024_07_10_e1c0ec7e183e2e4e24e6g-10.jpg?height=197&width=711&top_left_y=1238&top_left_x=1158"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "047",
+        "subject": "Technical",
+        "question_text": "Select the CORRECT statement(s) regarding semiconductor devices.\n\n(a) Electrons and holes are of equal density in an intrinsic semiconductor at equilibrium.\n\n(b) Collector region is generally more heavily doped than Base region in a BJ T.\n\n(c) Total current is spatially constant in a two terminal electronic device in dark under steady state condition.\n\n(d) Mobility of electrons always increases with temperature in Silicon beyond 300 K .",
+        "question_image": [],
+        "solution_text": "(a, c)\n- At equilibrium $n=p=n_{i}$ for intrinsic semiconductor\n- Collector region is generally lightly doped then base region in $B J T$. Hence option $B$ is wrong.\n- By increasing temperature above 300K, mobality of electrons decreases hence option (d) is also wrong",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "048",
+        "subject": "Technical",
+        "question_text": "A state transition diagram with states $\\mathrm{A}, \\mathrm{B}$ and C , and transition probabilities $\\mathrm{p}_{1}, \\mathrm{p}_{2}, \\ldots, \\mathrm{p}_{7}$ is\n\n\\section*{",
+        "question_image": [],
+        "solution_text": "(a \\& c)}\n\n$$\n\\begin{aligned}\ny & =A+\\bar{B}=\\overline{\\bar{A}} \\cdot B \\\\\nf(A, B) & =A+\\bar{B} \\\\\nf(0, B) & =0+\\bar{B}=\\bar{B} \\Rightarrow \\text { NOT Gate } \\\\\nf(A, \\bar{B}) & =A+\\overline{\\bar{B}}=A+B \\Rightarrow \\text { OR Gate } \\\\\nf(0, f(A, \\bar{B})) & =0+(\\overline{A+B}) \\Rightarrow \\text { NOR Gate } \\\\\nf(\\bar{A}, B) & =\\bar{A}+\\bar{B}=\\overline{A \\cdot B} \\Rightarrow \\text { NAND Gate } \\\\\nf(0, f(\\bar{A}, B)) & =0+(\\overline{\\overline{A \\cdot B}})=A \\cdot B \\Rightarrow \\text { AND Gate }\n\\end{aligned}\n$$\n(a) $p_{2}+p_{3}=p_{5}+p_{6}$\n(b) $\\mathrm{p}_{1}+\\mathrm{p}_{3}=\\mathrm{p}_{4}+\\mathrm{p}_{6}$\n(c) $p_{1}+p_{4}+p_{7}=1$\n(d) $\\mathrm{p}_{2}+\\mathrm{p}_{5}+\\mathrm{p}_{7}=1$\n\n\\section*{",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "049",
+        "subject": "Technical",
+        "question_text": "Consider a Boolean gate (D) where the output $Y$ is related to the inputs $A$ and $B$ as, $Y=A+\\bar{B}$, where + denotes logical OR operation. The Boolean inputs ' 0 ' and ' 1 ' are also available separately. Using instances of only D gates and inputs ' 0 ' and ' 1 ', $\\qquad$ (select the correct option(s))\n\n(a) NAND logic can be implemented\n\n(b) OR logic cannot be implemented\n\n(c) NOR Iogic can be implemented\n\n(d) AND logic cannot be implemented\nSince, we can implement NOT Gate we can also implement\n\nOR, AND, NOR and NAND Gate.",
+        "question_image": [],
+        "solution_text": "",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "050",
+        "subject": "Technical",
+        "question_text": "Twolinear time-invariant systems with transfer functions\n\n$G_{1}(s)=\\frac{10}{s^{2}+s+1}$ and $G_{2}(s)=\\frac{10}{s^{2}+s \\sqrt{10}+10}$\n\nhave unit step responses $\\mathrm{y}_{1}(\\mathrm{t})$ and $\\mathrm{y}_{2}(\\mathrm{t})$, respectively. Which of the following statements is/are true?\n\n(a) $y_{1}(t)$ and $y_{2}(t)$ have the same percentage peak overshoot.\n\n(b) $y_{1}(t)$ and $y_{2}(t)$ have the same steady-state value\n\n(c) $y_{1}(t)$ and $y_{2}(t)$ have the same damped frequency of oscillation.\n\n(d) $y_{1}(t)$ and $y_{2}(t)$ have the same $2 \\%$ settling time.",
+        "question_image": [],
+        "solution_text": "(a)\n\n$$\n\\begin{aligned}\n\\mathrm{G}_{1}(\\mathrm{~s}) & =\\frac{10}{\\mathrm{~s}^{2}+\\mathrm{s}+1} \\\\\n\\omega_{\\mathrm{n}_{1}}^{2} & =1 \\\\\n2 \\xi_{1} \\times 1 & =1 \\\\\n\\xi_{1} & =1 / 2 \\\\\n\\mathrm{G}_{2}(\\mathrm{~s}) & =\\frac{10}{\\mathrm{~s}^{2}+\\mathrm{s} \\sqrt{10}+10} \\\\\n\\omega_{\\mathrm{n}_{2}}^{2} & =10 \\\\\n2 \\times \\xi_{2} \\times \\sqrt{10} & =\\sqrt{10} \\\\\n\\xi_{2} & =1 / 2\n\\end{aligned}\n$$\n$\\because \\mathrm{M}_{\\mathrm{p}}$ depends on $\\xi$ only\n\n$\\mathrm{y}_{1}(\\mathrm{t})$ \\& $\\mathrm{y}_{2}(\\mathrm{t})$ have same percentage peak overshoot.\n\n$$\n\\begin{aligned}\n\\omega_{\\mathrm{d}_{1}} & =\\omega_{\\mathrm{n}_{1}} \\sqrt{1-\\xi_{1}^{2}} \\\\\n\\Rightarrow \\quad \\omega_{\\mathrm{d}_{1}} & \\neq \\omega_{\\mathrm{d}_{2}} \\quad \\because \\quad \\omega_{\\mathrm{n}_{1}} \\neq \\omega_{\\mathrm{n}_{2}}\n\\end{aligned}\n$$\n\ndamped frequency of oscillation is not same.\n\n$$\n\\begin{aligned}\n\\mathrm{T}_{\\mathrm{s}} & =\\frac{4}{\\xi \\omega_{\\mathrm{n}}}(2 \\% \\text { setting time }) \\\\\n\\mathrm{T}_{\\mathrm{s}_{1}} & \\neq \\mathrm{T}_{\\mathrm{s}_{2}} \\quad \\because \\omega_{\\mathrm{n}_{1}} \\neq \\omega_{\\mathrm{n}_{2}} \\\\\n\\mathrm{C}_{1}(\\mathrm{~s}) & =\\frac{10 \\times 1 / \\mathrm{s}}{\\mathrm{s}^{2}+\\mathrm{s}+1} \\\\\n\\mathrm{C}_{\\mathrm{ss}} & =\\lim _{\\mathrm{s} \\rightarrow 0} \\mathrm{~s} . \\mathrm{C}_{1}(\\mathrm{~s}) \\\\\n& =10 \\\\\n\\mathrm{C}_{2}(\\mathrm{~s}) & =\\frac{10 \\times 1 / \\mathrm{s}}{\\mathrm{s}^{2}+\\sqrt{10} \\mathrm{~s}+10} \\\\\n\\mathrm{C}_{\\mathrm{ss}} & =\\lim _{\\mathrm{s} \\rightarrow 0} \\mathrm{~s} . \\mathrm{C}_{2}(\\mathrm{~s})\n\\end{aligned}\n$$\n\n$$\n\\frac{10}{10} 1 \\Rightarrow \\frac{10}{10}=1\n$$\n\nSteady - state value is not same.",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "051",
+        "subject": "Technical",
+        "question_text": "Consider an FM broadcast that employs the pre emphasis filter with frequency response\n\n$$\n\\mathrm{H}_{\\mathrm{pe}}(\\omega)=1+\\frac{\\mathrm{j} \\omega}{\\omega_{0}}\n$$\n\nwhere $\\omega_{0}=10^{4} \\mathrm{rad} / \\mathrm{sec}$.\n\nFor the network shown in the figure to act as a corresponding de-emphasis filter, the appropriate pair(s) of ( $\\mathrm{R}, \\mathrm{C}$ ) values is/are $\\qquad$ .\n\n[image1]\n\n(a) $\\mathrm{R}=1 \\mathrm{k} \\Omega, \\mathrm{C}=0.1 \\mu \\mathrm{F}$\n\n(b) $\\mathrm{R}=2 \\mathrm{k} \\Omega, \\mathrm{C}=1 \\mu \\mathrm{F}$\n\n(c) $\\mathrm{R}=1 \\mathrm{k} \\Omega, \\mathrm{C}=2 \\mu \\mathrm{F}$ (d) $\\mathrm{R}=2 \\mathrm{k} \\Omega, \\mathrm{C}=0.5 \\mu \\mathrm{F}$",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7e9c1add78af876ebfb4g-02.jpg?height=279&width=648&top_left_y=2162&top_left_x=247"
+        ],
+        "solution_text": "(a)\n\n$$\n\\begin{align*}\n& H_{p e}(f)=\\frac{1}{H_{d e}(f)} \\\\\n& \\Rightarrow\\left|H_{\\mathrm{Pe}}(f)\\right|^{2}=\\frac{1}{\\left|H_{d e}(f)\\right|^{2}} \\tag{i}\n\\end{align*}\n$$\n\n$\\mathrm{H}_{\\mathrm{Pe}}(\\omega)=1+\\mathrm{j} \\frac{\\omega}{\\omega_{0}}$ where $\\omega_{0}=10^{4}$\n\n$\\left|\\mathrm{H}_{\\mathrm{Pe}}(\\omega)\\right|=\\sqrt{1+\\left(\\omega / \\omega_{0}\\right)^{2}}$\n\n$\\Rightarrow\\left|\\mathrm{H}_{\\mathrm{Pe}}(\\omega)\\right|^{2}=1+\\left(\\omega / \\omega_{0}\\right)^{2}$\n\n$H_{d e}(\\omega)=\\frac{1}{1+\\mathrm{j} \\omega R C}$\n\n$\\Rightarrow\\left|H_{d e}(\\omega)\\right|^{2}=\\frac{1}{1+(\\omega R C)^{2}}$\n\nfrom (i), (ii) \\& (iii)\n\n$$\n\\omega_{0}=\\frac{1}{\\mathrm{RC}}=10^{4}\n$$\n\n$\\Rightarrow R=1 \\mathrm{k} \\Omega \\& C=0.1 \\mu \\mathrm{F}$ satisfies only",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "052",
+        "subject": "Technical",
+        "question_text": "A waveguide consists of two infinite parallel plates (perfect conductors) at a separation of $10^{-4} \\mathrm{~cm}$, with air as the dielectric. Assume the speed of light in air to be $3 \\times 10^{8} \\mathrm{~m} / \\mathrm{s}$. The frequency/frequencies of TM waves which can propagate in this waveguide is/are $\\qquad$ .\n(a) $6 \\times 10^{15} \\mathrm{~Hz}$\n(b) $0.5 \\times 10^{12} \\mathrm{~Hz}$\n(c) $8 \\times 10^{14} \\mathrm{~Hz}$\n(d) $1 \\times 10^{13} \\mathrm{~Hz}$",
+        "question_image": [],
+        "solution_text": "(a, c)\n\nCut-off frequency.\n\n$$\n\\begin{aligned}\n\\mathrm{f}_{\\mathrm{c}} & =\\frac{\\mathrm{c}}{2 \\mathrm{a}} \\quad(\\mathrm{m}=1) \\\\\n& =\\frac{3 \\times 10^{8}}{2 \\times 10^{-4} \\times 10^{-2}} \\because \\mathrm{a}=10^{-4} \\mathrm{~cm} \\text { (given) } \\\\\n& =1.5 \\times 10^{14} \\mathrm{~Hz} \\\\\n\\mathrm{f} & >\\mathrm{f}_{\\mathrm{c}} \\text { will only propagate } \\\\\n\\Rightarrow \\mathrm{A} & \\& C \\text { will propage }\n\\end{aligned}\n$$",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "053",
+        "subject": "Technical",
+        "question_text": "The value of the integral\n$$\n\\int\\int_D  3{(x^2 +y^2)} dx dy\n$$\n\n\nwhere D is the shaded triangular region shown\nin the diagram, is __________ (rounded off to\nthe nearest integer).\n[image1]",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7e9c1add78af876ebfb4g-03.jpg?height=371&width=462&top_left_y=1125&top_left_x=340"
+        ],
+        "solution_text": "(512)\n\n(a)\n\n[image1]\n\n$$\n=\\int_{0}^{4} \\int_{-x}^{x}\\left(3 x^{2}+3 y^{2}\\right) d y d x\n$$\n\n$$\n\\begin{aligned}\n& =\\int_{0}^{4}\\left[3 x^{2} y+\\frac{3 y^{3}}{3}\\right]_{-x}^{x} d x \\\\\n& =\\int_{0}^{4}\\left[3 x^{2}(2 x)+2 x^{3}\\right] d x \\\\\n& =\\int_{0}^{4} 8 x^{3} \\\\\n& =2 \\times 4^{4} \\\\\n& =512\n\\end{aligned}\n$$",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7e9c1add78af876ebfb4g-03.jpg?height=371&width=462&top_left_y=1125&top_left_x=340"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "054",
+        "subject": "Technical",
+        "question_text": "A linear 2-port network is shown in figure (a). An ideal DC voltage source of $10 \\mathrm{~V}$ is connected across Port 1. A variable resistance R is connected across Port 2. As R is varied, the measured voltage and current at Port 2 is shown in figure (b) as a $\\mathrm{V}_{2}$ versus $-\\mathrm{I}_{2}$ plot. Note that for $\\mathrm{V}_{2}=5 \\mathrm{~V}, \\mathrm{I}_{2}=0 \\mathrm{~mA}$, and for $\\mathrm{V}_{2}=4 \\mathrm{~V}$, $\\mathrm{I}_{2}=-4 \\mathrm{~mA}$.\n\nWhen the variable resistance $R$ at Port 2 is replaced by the load shown in figure (c), the current $\\mathrm{I}_{2}$ is $\\qquad$ $\\mathrm{mA}$ (rounded off to one decimal place).\n\n[image1]",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7e9c1add78af876ebfb4g-03.jpg?height=377&width=776&top_left_y=694&top_left_x=1094"
+        ],
+        "solution_text": "(4)\n\n[image1]\n\nCase -1: $\\left(I_{2}=0\\right)$\n\n$$\nV_{o c}=5 \\mathrm{~V}\n$$\n\nCase - 2: With help of linearity\n\n$$\n\\begin{aligned}\n& \\frac{4-5}{4-0}=\\frac{I_{s c}-5}{I_{s c}-0} \\\\\n& I_{s c}=20 \\mathrm{~mA} \\\\\n& R_{\\text {th }}=\\frac{V_{o c}}{I_{s c}}=\\frac{5}{20} \\mathrm{k}=250 \\Omega=0.25 \\mathrm{k} \\Omega\n\\end{aligned}\n$$\n\n\\section*{Case -3:}\n\n[image2]\n\n$$\n\\begin{aligned}\n& \\mathrm{I}_{2}=\\frac{10-5}{1.25} \\mathrm{~mA} \\\\\n& \\mathrm{I}_{2}=4 \\mathrm{~mA}\n\\end{aligned}\n$$",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7e9c1add78af876ebfb4g-04.jpg?height=222&width=260&top_left_y=343&top_left_x=447",
+            "https://cdn.mathpix.com/cropped/2024_07_05_7e9c1add78af876ebfb4g-04.jpg?height=351&width=534&top_left_y=1138&top_left_x=310"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "055",
+        "subject": "Technical",
+        "question_text": "For a vector $\\bar{x}=[x[0], x[1], \\ldots, x[7]]$, the 8-point discrete Fourier transform (DFT) is denoted by\n\n$\\bar{X}=\\operatorname{DFT}(\\bar{x})=[X[0], X[1], \\ldots, X[7]]$, where\n\n$X[k]=\\sum_{n=0}^{7} x[n] \\exp \\left(-j \\frac{2 \\pi}{8} n k\\right)$.\n\nHere, $j=\\sqrt{-1}$. If $\\bar{x}=[1,0,0,0,2,0,0,0]$ and $\\bar{y}=\\operatorname{DFT}(\\operatorname{DFT}(\\bar{x})$ ), then the value of $y[0]$ is $\\qquad$ (rounded off to one decimal place).\n\n\\section*{",
+        "question_image": [],
+        "solution_text": "(8)}\n\n$$\n\\begin{aligned}\n& x[K]=\\sum_{n=0}^{7} x[n] \\exp \\left(-j \\frac{2 \\pi}{8} m k\\right) \\\\\n& y=D F T(D F T(x)) \\text { where } \\\\\n& x=[x[0], x[1], \\ldots x[7]] \\\\\n& y(0)=? \\quad x[n]=[1,0,0,0,2,0,0,0] \\\\\n& x[n] \\xrightarrow{\\text { DFT }} \\xrightarrow{\\text { DFT }} N \\cdot x(-k)=y(n)\n\\end{aligned}\n$$\n\n$$\n\\begin{aligned}\n& y(n)=\\left.N \\cdot x(-k)\\right|_{\\text {mod. }}=N \\cdot x(N-K), N=8 \\\\\n& y(n)=8[1,0,0,0,2,0,0,0] \\\\\n& y(n)=[8,0,0,0,16,0,0,0] \\\\\n& y(0)=8\n\\end{aligned}\n$$",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "056",
+        "subject": "Technical",
+        "question_text": "A p-type semiconductor with zero electric field is under illumination (low level injection) in steady state condition. Excess minority carrier density is zero at $x= \\pm 2 \\ell_{n}$, where $\\ell_{n}=10^{-4} \\mathrm{~cm}$ is the diffusion length of electrons. Assume electronic charge, $q=-1.6 \\times 10^{-19} \\mathrm{C}$. the profiles of photo-generation rate of carriers and the recombination rate of excess minority carriers (R) are shown. Under these conditions, the magnitude of the current density due to the photo-generated electrons at $\\mathrm{x}=+2 \\ell_{\\mathrm{n}}$ is $\\mathrm{mA} / \\mathrm{cm}^{2}$ (rounded off to two decimal places).\n[image1]\n\n\\section*{",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7e9c1add78af876ebfb4g-04.jpg?height=582&width=718&top_left_y=1266&top_left_x=1129"
+        ],
+        "solution_text": "(0.59)}\n\nGiven\n\n$$\n\\begin{aligned}\n\\delta_{n}(x) & =R \\tau_{n}=10^{20} \\mathrm{e}^{-|x| \\ell_{n}} \\cdot \\tau_{n} \\\\\n\\delta_{\\mathrm{n}}\\left(\\ell_{n}\\right) & =10^{20} \\mathrm{e}^{-1} \\tau_{n} \\\\\n\\text { for } \\quad \\ell_{n} & \\leq \\mathrm{x} \\leq 2 \\ell_{\\mathrm{n}}\n\\end{aligned}\n$$\n\nContinuity equation is given by\n\n$D_{n} \\frac{\\partial^{2} \\delta_{n}}{\\delta x^{2}}+G-R=0$\n\n$G \\& R$ both are zero - for $\\left[\\ell_{n} \\leq x \\leq 2 \\ell_{n}\\right]$\n\nHence Equation (i) reduced to $D_{n} \\frac{\\partial^{n} \\delta_{n}}{\\partial x^{2}}=0$\n\n$\\Rightarrow \\quad \\delta_{\\mathrm{n}}(\\mathrm{x})=\\mathrm{Ax}+\\mathrm{B}$\n\nFor calculating A \\& B we use Boundary condition\n\n$$\n\\begin{align*}\n\\delta_{n}\\left(2 \\ell_{n}\\right) & =0 \\quad \\Rightarrow A=\\frac{-B}{2 \\ell_{n}} \\\\\n\\therefore \\quad \\delta_{n}(x) & =\\frac{-B}{2 \\ell_{n}} x+B=B\\left[1-\\frac{x}{2 \\ell_{n}}\\right] . \\tag{iii}\n\\end{align*}\n$$\n\nAt $x=\\ell_{n}$\n\n$$\n\\begin{array}{ll}\n\\Rightarrow & 10^{20} \\mathrm{e}^{-1} \\tau_{n}=\\mathrm{B}\\left[1-\\frac{\\ell_{n}}{2 \\ell_{n}}\\right] \\\\\n\\Rightarrow & B=2 \\times 10^{20} \\mathrm{e}^{-1} \\tau_{\\mathrm{n}} \\\\\n\\therefore & \\delta_{n}(\\mathrm{x})=2 \\times 10^{20} \\mathrm{e}^{-1} \\tau_{n}\\left[1-\\frac{\\mathrm{x}}{2 \\ell_{n}}\\right]\n\\end{array}\n$$\n\nfor $\\quad \\ell_{n} \\leq x \\leq 2 \\ell_{n}$\n\nElectron diffusion current density is given by\n\n$\\left|J_{n}\\right|_{\\text {diff }}=q D_{n} \\frac{d \\eta}{d x}=q D_{n} \\times 2 \\times 10^{20} \\times e^{-1} \\times \\tau_{n}\\left[0-\\frac{1}{2 \\ell_{n}}\\right]$\n\n$=\\frac{1.6 \\times 10^{-19} \\times \\ell_{\\mathrm{n}}^{2} \\times 2 \\times 10^{20} \\times \\mathrm{e}^{-1}}{2 \\ell_{\\mathrm{n}}}$\n\n$=1.6 \\times 10^{-19} \\times \\ell_{\\mathrm{n}} \\times 10^{20} \\times \\mathrm{e}^{-1}$\n\n$=1.6 \\times 10 \\times 1 \\times 10^{-4} \\times \\mathrm{e}^{-1}$\n\n$=0.59 \\mathrm{~mA} / \\mathrm{cm}^{2}$",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "057",
+        "subject": "Technical",
+        "question_text": "A circuit and the characteristics of the diode (D) in it are shown. The ratio of the minimum to the maximum small signal voltage gain $\\frac{\\partial \\mathrm{V}_{\\text {out }}}{\\partial \\mathrm{V}_{\\text {in }}}$ is $\\qquad$\n(rounded off to two decimal places).\n\n[image1]\n\n[image2]\n\n\\section*{",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7e9c1add78af876ebfb4g-05.jpg?height=377&width=668&top_left_y=2164&top_left_x=243",
+            "https://cdn.mathpix.com/cropped/2024_07_05_7e9c1add78af876ebfb4g-05.jpg?height=460&width=412&top_left_y=341&top_left_x=1276"
+        ],
+        "solution_text": "(0.75)}\n\nGiven circuit shown below\n\n[image1]\n\nReplacing the circuit with small signal equivalent.\n\n[image2]\n\nCase-I when diode is ON\n\nAs $r_{d}(O N)=0$, the $2 \\mathrm{k} \\Omega$ resistor in parallel to the diode becomes open circuit.\n\n$\\therefore V_{\\text {out }}=V_{\\text {IN }} \\times \\frac{2}{4}=\\frac{V_{\\text {in }}}{2}$\n\n$\\left.\\therefore \\frac{\\partial V_{\\text {out }}}{\\partial V_{\\text {in }}}\\right|_{\\text {max }}=\\frac{1}{2}$\n\nCase-l: When diode is off:\n\n$r_{d}$ (off) $=\\infty \\Rightarrow$ total $R_{e q}=2+2+2=6 \\mathrm{k} \\Omega$\n\n$\\therefore \\mathrm{V}_{\\text {out }}=\\frac{\\mathrm{V}_{\\text {in }} \\times 4}{6}=\\left.\\frac{2}{3} \\mathrm{~V}_{\\text {in }} \\Rightarrow \\frac{\\partial \\mathrm{V}_{\\text {out }}}{\\partial \\mathrm{V}_{\\text {in }}}\\right|_{\\text {min }}=\\frac{2}{3}$\n\nFrom (i) and (ii)\n\n$\\frac{\\left(\\frac{\\partial V_{\\text {out }}}{\\partial V_{\\text {in }}}\\right)_{\\min }}{\\left(\\frac{\\partial V_{\\text {out }}}{\\partial V_{\\text {in }}}\\right)_{\\max }}=\\frac{1 / 2}{2 / 3}=\\frac{1}{2} \\times \\frac{3}{2}=0.75$",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7e9c1add78af876ebfb4g-05.jpg?height=314&width=623&top_left_y=942&top_left_x=1179",
+            "https://cdn.mathpix.com/cropped/2024_07_05_7e9c1add78af876ebfb4g-05.jpg?height=326&width=619&top_left_y=1382&top_left_x=1181"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "058",
+        "subject": "Technical",
+        "question_text": "Consider the circuit shown with an ideal OPAMP. The output voltage $\\mathrm{V}_{0}$ is $\\qquad$ V (rounded off to two decimal places).\n\n[image1]",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7e9c1add78af876ebfb4g-06.jpg?height=285&width=771&top_left_y=497&top_left_x=194"
+        ],
+        "solution_text": "(-0.5)\n\n[image1]\n\n$$\nV_{A}=\\frac{V_{R}}{2} \\& R_{t h}=R\n$$\n\n$$\nV_{B}=\\frac{V_{A}}{2}\n$$\n\n[image2]\n\n$$\n\\begin{aligned}\n& V_{C}=\\frac{\\left(V_{R}+V_{R} / 4\\right)}{2}=\\frac{5}{8} V_{R} \\\\\n& R_{\\text {th }}=2 R|| 2 R=R\n\\end{aligned}\n$$\n\nSimilarly, $V D=\\frac{V_{c}}{2}=\\frac{5}{16} V_{R} \\& R_{\\text {th }}=R$\n\nSo,\n\n[image3]\n\n$\\frac{S}{16} V_{R}=\\frac{5}{16} \\times 1.6 \\mathrm{~V}$\n\n$V_{0}=\\frac{-3 R}{(2 R+R)} \\times \\frac{5}{16} \\times 1.6=-\\frac{3}{2} \\times \\frac{5}{16} \\times 1.6$\n\n$V_{0}=-0.5 \\mathrm{~V}$",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7e9c1add78af876ebfb4g-06.jpg?height=248&width=845&top_left_y=841&top_left_x=157",
+            "https://cdn.mathpix.com/cropped/2024_07_05_7e9c1add78af876ebfb4g-06.jpg?height=254&width=803&top_left_y=1289&top_left_x=181",
+            "https://cdn.mathpix.com/cropped/2024_07_05_7e9c1add78af876ebfb4g-06.jpg?height=212&width=397&top_left_y=1907&top_left_x=381"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "059",
+        "subject": "Technical",
+        "question_text": "Consider the circuit shown with an ideal long channel nMOSFET (enhancement-mode, substrate is connected to the source). The transistor is appropriately biased in the saturation region with $V_{G G}$ and $V_{D D}$ such that it acts as a linear amplifier. $v_{i}$ is the small- signal ac input voltage. $v_{A}$ and $v_{B}$ represent the small-signal voltages at the nodes $\\mathrm{A}$ and $\\mathrm{B}$, respectively. The value of $\\frac{v_{A}}{v_{B}}$ is $\\qquad$ (rounded off to one decimal place).\n\n[image1]\n\n\\section*{",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7e9c1add78af876ebfb4g-06.jpg?height=583&width=491&top_left_y=571&top_left_x=1248"
+        ],
+        "solution_text": "$(-2)$}\n\nFor ac analysis\n\n[image1]",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7e9c1add78af876ebfb4g-06.jpg?height=900&width=514&top_left_y=1252&top_left_x=1228"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "060",
+        "subject": "Technical",
+        "question_text": "The block diagram of a closed-loop control system is shown in the figure. $R(s), Y(s)$, and $D(s)$ are the Laplace transforms of the timedomain signals $r(t), y(t)$, and $d(t)$, respectively. Let the error signal be defined as $e(t)=r(t)-$ $y(t)$. Assuming the reference input $r(t)=0$ for all t, the steady-state error e( $\\infty$ ), due to a unit step disturbance $\\mathrm{d}(\\mathrm{t})$, is $\\qquad$ (rounded off to two decimal places).\n\n[image1]\n\n\\section*{",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7e9c1add78af876ebfb4g-07.jpg?height=226&width=725&top_left_y=338&top_left_x=214"
+        ],
+        "solution_text": "(-0.1)}\n\n$$\nY(s)=\\frac{R(s) \\cdot 10 / s(s+10)}{1+10 / s(s+10)}+\\frac{D(s) \\cdot 10 / s(s+10)}{1+10 / s(s+10)}\n$$\n\nwhen, $r(t)=0 \\& d(t)=U(t) \\stackrel{\\text { L.T. }}{\\longleftrightarrow} \\frac{1}{S}$\n\n$$\n\\begin{aligned}\ne(\\infty) & =-\\lim _{s \\rightarrow 0} \\frac{s \\cdot \\frac{1}{s} \\times 1}{s(s+10)+10} \\\\\n& =-1 / 10 \\quad[\\because e(t)=r(t)-y(t)] \\\\\n& =-0.1\n\\end{aligned}\n$$",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "061",
+        "subject": "Technical",
+        "question_text": "The transistion diagram of a discrete memoryless channel with three input symbols and three output symbols is shown in the figure. The transition probabilities are as marked.\n\nThe parameter $\\alpha$ lies in the interval $[0.25,1]$. The value of $\\alpha$ for which the capacity of this channel is maximized, is $\\qquad$ (rounded off to two decimal places).\n\n[image1]",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7e9c1add78af876ebfb4g-07.jpg?height=509&width=559&top_left_y=1690&top_left_x=306"
+        ],
+        "solution_text": "(1)\n\n$\\alpha \\in[0.25,1]$\n\n[image1]\n\n$I(x: y)=H(y)-H(y / x)$\n\nwhere,\n\n$$\n\\begin{aligned}\n& H(y / x)=\\sum_{i=1}^{3} \\sum_{j=1}^{3} P\\left(x_{i}, y_{i}\\right) \\log _{2} P\\left(y_{i} / x_{i}\\right) \\\\\n& {[P(y / x)]=\\left[\\begin{array}{ccc}\n1-\\alpha & \\alpha & 0 \\\\\n0 & 1-\\alpha & \\alpha \\\\\n\\alpha & 0 & 1-\\alpha\n\\end{array}\\right]} \\\\\n& {[P(x / y)]=[P(x)]_{d} \\cdot[P(y / x)]} \\\\\n& {[P(x)]_{d}=\\left[\\begin{array}{ccc}\n1 / 3 & 0 & 0 \\\\\n0 & 1 / 3 & 0 \\\\\n0 & 0 & 1 / 3\n\\end{array}\\right]} \\\\\n& \\Rightarrow \\quad[P(x, y)]=\\left[\\begin{array}{ccc}\n(1-\\alpha) / 3 & \\alpha / 3 & 0 \\\\\n0 & (1-\\alpha) / 3 & \\alpha / 3 \\\\\n\\alpha / 3 & 0 & (1-\\alpha) / 3\n\\end{array}\\right] \\\\\n& H(y / x)=-\\left\\{\\frac{(1-\\alpha)}{3} \\log _{2}(1-\\alpha)+\\frac{\\alpha}{3} \\log _{2}(\\alpha)\\right\\} \\times 3 \\\\\n& =-\\left\\{(1-\\alpha) \\log _{2}(1-\\alpha)+\\alpha \\log _{2}(\\alpha)\\right\\} \\\\\n& I(x ; y)=H(y)-H(y / x) \\\\\n& =H(y)+(1-\\alpha) \\log _{2}(1-\\alpha)+\\alpha \\log _{2}(\\alpha) \\\\\n& C_{s}=\\max \\{(x ; y)\\} \\\\\n& =\\max \\{H(y)\\}+\\alpha \\log _{2}(\\alpha)+(1-\\alpha) \\log _{2}(1-\\alpha) \\\\\n& =\\log _{2}^{3}+\\alpha \\log _{2}(\\alpha)+(1-\\alpha) \\log _{2}(1-\\alpha)\n\\end{aligned}\n$$\n\n[image2]\n\nChannel capacity will be maximum for $\\alpha=0$ or $\\alpha=1$. Otherwise it will be lesser.\n\n\\section*{GATE 2022 Detailed Solution}\n\n$C_{s}(\\max )=\\log _{2} 3$\n\n$\\mathrm{C}_{\\mathrm{s}}$ (max) at $\\alpha=1$ in $\\alpha \\in[0.25,1]$",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7e9c1add78af876ebfb4g-07.jpg?height=512&width=646&top_left_y=338&top_left_x=1162",
+            "https://cdn.mathpix.com/cropped/2024_07_05_7e9c1add78af876ebfb4g-07.jpg?height=323&width=539&top_left_y=2237&top_left_x=1221"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "062",
+        "subject": "Technical",
+        "question_text": "Consider communication over a memoryless binary symmetric channel using a ( 7,4 ) Hamming code. Each transmitted bit is received correctly with probability ( $1-\\epsilon$ ), and flipped with probability $\\epsilon$. For each codeword transmission, the receiver performs minimum Hamming distance decoding, and correctly decodes the message bits if and only if the channel introduces at most one bit error.\n\nFor $\\in=0.1$, the probability that a transmitted codeword is decoded correctly is $\\qquad$ (rounded off to two decimal places).\n\n\\section*{",
+        "question_image": [],
+        "solution_text": "(0.85)}\n\nHere $(7,4)$ Hamming code is given\n\n$P(0 / 1)=P(1 / 0)$ (due to bindary symmetry channel)\n\n$=0.1$\n\nWhen $\\mathrm{n}$ bits are transmitted then probability of getting error in $\\gamma$ bits $={ }^{n} C_{r} P^{r}(1-p)^{n-r}$\n\n$P:$ Bit error probability\n\n$P_{c}=C_{0}(0.1)^{0}[1-0.1]^{7-0}+{ }^{7} C_{1}(0.1)(1-0.1)^{7-1}$\n\n$=(0.9)^{7}+7 \\times 0.1 \\times(0.9)^{6}$\n\n$=0.85$\n\n$P_{C}$ : Prob of all most one bit error",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "063",
+        "subject": "Technical",
+        "question_text": "Consider a channel over which either symbol $x_{A}$ or symbol $x_{B}$ is transmitted. Let the output of the channel $Y$ be the input to a maximum likelihood (ML) detector at the receiver. The conditional probability density functions for $Y$ given $x_{A}$ and $x_{B}$ are:\n\n$$\n\\begin{aligned}\n& f_{Y \\mid X_{A}}(y)=e^{-(y+1)} u(y+1) \\\\\n& f_{Y \\mid x_{B}}=e^{(y-1)}(1-u(y-1))\n\\end{aligned}\n$$\n\nwhere $u(\\cdot)$ is the standard unit step function. The probability of symbol error for this system is $\\qquad$ (rounded off to two decimal places).\n\n\\section*{",
+        "question_image": [],
+        "solution_text": "(0.36)}\n\nHere source is transmitting two symbols $X_{A}$ \\& $\\mathrm{X}_{\\mathrm{B}}$\n\n[image1]\n\n$f_{y / x_{A}}(y)=e^{-(y+1)} u(y+1)$\n\n$f_{y / x_{B}}(y)=e^{(y-1)}[1-u(x-1)]$\n\n[image2]\n\nCalculation $\\mathrm{V}_{\\text {th }}$ optimum\n\n$$\n\\begin{aligned}\n& \\left.f_{Y / X_{A}}(Y)\\right|_{Y=V_{t h}}=\\left.f_{Y / X_{B}}(y)\\right|_{Y=V_{\\text {th }}} \\\\\n& e^{-\\left(v_{\\text {th }}+1\\right)}=e^{v_{\\text {th }}-1} \\Rightarrow V_{t h}=0\n\\end{aligned}\n$$\n\nProblem of error $=P_{e}=P\\left(X_{A}\\right) P_{\\text {eXA }}+P\\left(X_{B}\\right) P_{\\text {exB }}$\n\n$P_{\\text {exA }}=$ Problem of error when $X_{A}$ is transmitted\n\n$P_{\\text {exB }}=$ Problem of error when $X_{B}$ is transmitted\n\nFor decision making\n\n$$\n\\begin{aligned}\n& \\begin{array}{c|c}\n\\mathrm{Y} \\longrightarrow \\\\\n\\mathrm{V}_{\\mathrm{th}} & \\mathrm{ML} \\\\\n\\text { Detector }\n\\end{array} \\longrightarrow \\\\\n& Y=\\left\\{\\begin{array}{l}\nX_{A} ; \\text { If } Y<V_{\\text {th }} \\\\\nX_{B} ; \\text { If } Y>V_{\\text {th }}\n\\end{array}\\right. \\\\\n& P_{e}=P\\left(X_{A}\\right) P\\left(Y>V_{\\text {th }}\\right) \\\\\n& =P\\left(X_{B}\\right) P\\left(Y<V_{\\text {th }}\\right) \\\\\n& P_{e}=P\\left(X_{A}\\right) \\int_{0}^{\\infty} e^{-(Y+1)} d y+P\\left(X_{B}\\right) \\int_{-\\infty}^{0} e^{Y-1} d y \\\\\n& =P\\left(X_{A}\\right) \\cdot e^{-1}+P\\left(X_{B}\\right) e^{-1} \\\\\n& =e^{-1}\\left[P\\left(X_{A}\\right)+P\\left(X_{B}\\right)\\right] \\\\\n& =\\mathrm{e}^{-1} \\\\\n& =0.367\n\\end{aligned}\n$$",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7e9c1add78af876ebfb4g-08.jpg?height=123&width=428&top_left_y=444&top_left_x=1271",
+            "https://cdn.mathpix.com/cropped/2024_07_05_7e9c1add78af876ebfb4g-08.jpg?height=214&width=761&top_left_y=787&top_left_x=1110"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "064",
+        "subject": "Technical",
+        "question_text": "Consider a real valued source whose samples are independent and identically distributed random variables with the probability density function, $f(x)$, as shown in the figure.\n\n[image1]\n\nConsider a 1 bit quantizer that maps positive samples to value $\\alpha$ and other to value $\\beta$. If $\\alpha$ * and $\\beta^{*}$ are the respective choices for $\\alpha$ and $\\beta$ that minimize the mean square quantization error, then $\\left(\\alpha^{*}-\\beta^{*}\\right)=$ $\\qquad$ (rounded off to two decimal places).\n\n\\section*{",
+        "question_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7e9c1add78af876ebfb4g-09.jpg?height=348&width=671&top_left_y=340&top_left_x=241"
+        ],
+        "solution_text": "(1.16)}\n\n[image1]\n\n$$\n\\begin{aligned}\n\\frac{1}{2} \\times K \\times 2+1 & \\times K=1 \\Rightarrow K=0.5 \\\\\nf_{x}(x) & =m x+C \\\\\n& =0.25+C \\text { for }(-2 \\leq x \\leq 0)\n\\end{aligned}\n$$\n\nWhen $x=-2 \\Rightarrow f_{x}(x)=0$\n\n$$\n\\begin{aligned}\n0 & =0.25 \\mathrm{x}-2+\\mathrm{C} \\\\\n\\Rightarrow \\quad C & =0.5 \\\\\n\\mathrm{f}_{\\mathrm{x}}(\\mathrm{x}) & =\\frac{1}{4} \\mathrm{x}+\\frac{1}{2}=-2 \\leq \\mathrm{x} \\leq 0 \\\\\n\\mathrm{f}_{\\mathrm{x}}(\\mathrm{x}) & =0.5 ; 0 \\leq \\mathrm{x} \\leq 1 \\\\\n\\mathrm{x}_{\\mathrm{q}} & =\\alpha ; \\text { for } 0 \\leq \\mathrm{x} \\leq 1 \\\\\n\\mathrm{x}_{\\mathrm{q}} & =\\beta ; \\text { for }-2 \\leq \\mathrm{x} \\leq 0\n\\end{aligned}\n$$\n\nAgain, $M S Q\\left[Q_{e}\\right]=E\\left[\\left(X-X_{q}\\right)^{2}\\right]$\n\nQuantization noise power $=\\mathrm{N}_{\\text {\u00e3\u20ac\u201a }}$\n\n$=\\operatorname{MSQ}\\left[Q_{e}\\right]=\\int\\left(X-X_{a}\\right)^{2} f_{X}(x) d x$\n\nfor $-2 \\leq x \\leq 0 \\Rightarrow N_{Q}=\\int_{-2}^{0}(x-\\beta)^{2} \\times\\left(\\frac{1}{4} x+\\frac{1}{2}\\right) d x$\n\n$$\n\\begin{aligned}\n& =\\int_{-2}^{0}\\left[x^{2}+\\beta^{2}-2 x \\beta\\right]\\left[\\frac{x}{4}+\\frac{1}{2}\\right] d x \\\\\n\\Rightarrow \\quad N_{Q} & =\\frac{\\beta^{2}}{2}+\\frac{2}{3} \\beta-\\frac{1}{3}\n\\end{aligned}\n$$\n\n$\\mathrm{N}_{\\mathrm{Q}}$ to be minimum:\n\n$$\n\\begin{aligned}\n\\frac{d N_{Q}}{d \\beta}=0 \\\\\n\\Rightarrow \\frac{1}{2} \\times 2 \\beta+\\frac{2}{3}=0 \\\\\n\\beta=-\\frac{2}{3}\n\\end{aligned}\n$$\n\nfor $0 \\leq x \\leq 1$\n\n$$\n\\Rightarrow \\mathrm{N}_{\\mathrm{Q}}=\\int_{0}^{1}(\\mathrm{x}-\\alpha)^{2} \\times \\frac{1}{2} \\mathrm{dx}=\\frac{1}{6}\\left[(1-\\alpha)^{3}+\\alpha^{3}\\right]\n$$\n\nSimilarly for ' $\\alpha$ '\n\n$$\n\\begin{gathered}\n\\frac{d N_{Q}}{d \\alpha}=0 \\\\\n\\Rightarrow \\frac{1}{6}\\left[3(1-\\alpha)^{2}(-1)+3 \\alpha^{2}\\right]=0 \\\\\n\\alpha=1 / 2\n\\end{gathered}\n$$\n\nFor $\\mathrm{N}_{\\mathrm{Q}}$ to be minimum\n\n$$\n\\begin{aligned}\n\\alpha-\\beta & =\\frac{1}{2}-\\left(-\\frac{2}{3}\\right) \\\\\n& =\\frac{7}{6}=1.167\n\\end{aligned}\n$$",
+        "solution_image": [
+            "https://cdn.mathpix.com/cropped/2024_07_05_7e9c1add78af876ebfb4g-09.jpg?height=297&width=580&top_left_y=1114&top_left_x=287"
+        ],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    },
+    {
+        "question_id": "065",
+        "subject": "Technical",
+        "question_text": "In an electrostatic field, the electric displacement density vector, $\\vec{D}$, is given by\n\n$$\n\\vec{D}(x, y, z)=\\left(x^{3} \\vec{i}+y^{3} \\vec{j}+x y^{2} \\vec{k}\\right) C / m^{2}\n$$\n\nwhere $\\overrightarrow{\\mathrm{i}}, \\overrightarrow{\\mathrm{j}}, \\overrightarrow{\\mathrm{k}}$ are the unit vectors along $\\mathrm{x}$-axis, y-axis, and z-axis, respectively. Consider a cubical region $\\mathrm{R}$ centered at the origin with each side of length $1 \\mathrm{~m}$, and vertices at $( \\pm 0.5 \\mathrm{~m}, \\pm 0.5 \\mathrm{~m}, \\pm 0.5 \\mathrm{~m}$ ). The electric charge enclosed within $R$ is $\\qquad$ $\\mathrm{C}$ (rounded off to two decimal places).",
+        "question_image": [],
+        "solution_text": "(0.5)\n\n$$\n\\begin{aligned}\n& \\overrightarrow{\\mathrm{D}}(\\mathrm{x}, \\mathrm{y}, \\mathrm{z})=\\left(\\mathrm{x}^{3} \\vec{i}+\\mathrm{y}^{3} \\vec{j}+x y^{2} \\vec{k}\\right) c / m^{2} \\\\\n& Q_{\\text {enc. }}=\\int_{v} \\rho_{v} \\cdot d V=\\int(\\nabla \\cdot \\vec{D}) d V \\\\\n& \\nabla \\cdot \\vec{D}=3 x^{2}+3 y^{2} \\\\\n& d V=d x d y d z \\\\\n& \\therefore Q_{\\text {enc. }}=\\int_{v} 3\\left(x^{2}+y^{2}\\right) d x d y d z \\\\\n& =3\\left[\\int_{-0.5}^{0.5} x^{2} d x \\int_{-0.5}^{0.5} d y \\int_{-0.5}^{0.5} d z+\\int_{-0.5}^{0.5} d x \\int_{-0.5}^{0.5} y^{2} d y \\int_{-0.5}^{0.5} d z\\right] \\\\\n& =3\\left[\\left.\\frac{x^{3}}{3}\\right|_{-0.5} ^{0.5} \\times 1 \\times 1+\\left.\\frac{y^{3}}{3}\\right|_{-0.5} ^{0.5} \\times 1 \\times 1\\right] \\\\\n& =0.25+0.25 \\\\\n& Q_{\\text {enc }}=0.5 C\n\\end{aligned}\n$$",
+        "solution_image": [],
+        "tags": [],
+        "difficulty": "medium",
+        "year": 2022
+    }
+]
