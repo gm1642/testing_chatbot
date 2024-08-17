@@ -28,7 +28,7 @@ def generate_response(selected_question, follow_up_prompt):
     if selected_question and follow_up_prompt:
         pair = question_dict[selected_question]
         combined_text = f"Question: {pair['question_text']} Solution: {pair['solution_text']}"
-        prompt = f"Using this data: {combined_text}. Respond to this prompt: {follow_up_prompt} within 10 sec of inference time."
+        prompt = f"Using this data: {combined_text}. Respond to this prompt: {follow_up_prompt} in less words."
         output = ollama.generate(model="llama3:8b-instruct-q2_K", prompt=prompt)
         return "", output['response']
     return "No question selected or follow-up prompt is empty.", ""
