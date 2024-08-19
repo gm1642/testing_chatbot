@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "@fontsource/cabin"; 
+@import "@fontsource/montserrat"; 
+
+html.dark {
+    background-color: #181818;
+    color: #E0E0E0;
+  }

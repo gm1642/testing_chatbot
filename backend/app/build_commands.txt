@@ -1,0 +1,4 @@
+docker-compose up -d --build
+docker exec -it <app_container_id> python /app/create_schema.py
+docker exec -it <app_container_id> python /app/insert_data.py
+Check Running Containers: docker ps

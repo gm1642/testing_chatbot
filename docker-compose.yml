@@ -1,0 +1,42 @@
+
+services:
+  weaviate:
+    image: semitechnologies/weaviate:latest
+    ports:
+      - "8080:8080"
+    environment:
+      - QUERY_DEFAULTS_LIMIT=20
+      - AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED=true
+      - PERSISTENCE_DATA_PATH=/var/lib/weaviate
+    volumes:
+      - weaviate_data:/var/lib/weaviate
+
+  app:
+    build: ./app
+    volumes:
+      - ./app:/app
+      - ./data:/data
+    ports:
+      - "7861:7861"
+    depends_on:
+      - weaviate
+      - ollama
+    # network_mode: host
+
+  ollama:
+    image: ollama/ollama:latest
+    volumes:
+      - ollama:/root/.ollama
+    ports:
+      - "11434:11434"
+    command: serve 
+    deploy:
+      resources:
+        limits:
+          memory: 10G # Adjust this value as needed
+        reservations:
+          memory: 8G # Adjust this value as needed
+
+volumes:
+  weaviate_data:
+  ollama:
