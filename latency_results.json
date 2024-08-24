@@ -1,0 +1,327 @@
+[
+    {
+        "question_id": "001",
+        "latency": 14.595394134521484,
+        "response": "The solution is saying that Mr. X doesn't speak Japanese OR Chinese, which is the meaning of \"neither\" and \"nor\"."
+    },
+    {
+        "question_id": "002",
+        "latency": 4.611111640930176,
+        "response": "The share of Q is 1000."
+    },
+    {
+        "question_id": "003",
+        "latency": 24.72067141532898,
+        "response": "The solution is finding the area of the trapezium, which is half the sum of the lengths of the parallel sides. In this case, it's (1/2)(P+S)Q, where P=S. Since SP=3cm and RS=6cm, the shortest distance between PQ and SR is half the difference of these two sides: 0.5(RS-SP)=0.5(6-3)=2.25 cm."
+    },
+    {
+        "question_id": "004",
+        "latency": 10.496204614639282,
+        "response": "The maximum number of squares without a \"hole in the interior\" that can be formed within the $4 \\times 4$ grid using the unit squares as building blocks is 20, which means option (b) is correct."
+    },
+    {
+        "question_id": "005",
+        "latency": 13.33442497253418,
+        "response": "The security guard's 360\u00b0 view allows them to see the entire inner space, so any location along the boundary walls can be posted to monitor it. Only options Q and S provide a clear view of both sides."
+    },
+    {
+        "question_id": "006",
+        "latency": 9.165694952011108,
+        "response": "The solution can be summarized as: \"Using chemicals to kill mosquitoes may have undesired consequences, while using genetically modified mosquitoes' consequences are still unknown.\""
+    },
+    {
+        "question_id": "007",
+        "latency": 10.278574228286743,
+        "response": "The solution is explaining that by combining the two original inequalities, we get a single inequality $x>4$ and $x<5$, which simplifies to $4<x<5$."
+    },
+    {
+        "question_id": "008",
+        "latency": 7.182483196258545,
+        "response": "The solution is simply adding up the sides of the parallelogram."
+    },
+    {
+        "question_id": "009",
+        "latency": 8.941935062408447,
+        "response": "The solution states that P has cheated because all the other statements are false and S's statement is true, but S would never lie."
+    },
+    {
+        "question_id": "010",
+        "latency": 11.791586875915527,
+        "response": "The solution explains that sequence operations 1 and 3 are equivalent because applying each operation once gives the same result as applying all three operations."
+    },
+    {
+        "question_id": "011",
+        "latency": 8.3074049949646,
+        "response": "The solution explains that since the vector field is conservative, the contour integral is zero."
+    },
+    {
+        "question_id": "012",
+        "latency": 8.338500499725342,
+        "response": "The system is inconsistent, meaning that there are no solutions for x (i.e., no solution)."
+    },
+    {
+        "question_id": "013",
+        "latency": 18.298583030700684,
+        "response": "The solution is applying nodal analysis at Node-A, finding the voltage V_A = 3.5 V, and then calculating the current I = 0.75 \u00d7 10^(-3) A using V_A - 5 = 2k \u00d7 10^(-3)."
+    },
+    {
+        "question_id": "014",
+        "latency": 5.713531970977783,
+        "response": "The solution explains that since there's no closed loop, the current I is zero."
+    },
+    {
+        "question_id": "015",
+        "latency": 16.890554904937744,
+        "response": "The solution uses the duality property of Fourier transforms. It shows that the given FT is equivalent to the original signal, scaled by a factor of $\\frac{\\pi}{2}$ and multiplied by $e^{-|\\omega|}$."
+    },
+    {
+        "question_id": "016",
+        "latency": 33.71304941177368,
+        "response": "The solution explains that under steady state conditions, the electron density at a distance $x=2 \\mu m$ is equal to the initial electron density multiplied by the exponent factor $e^{-x/L_n}$, which decays exponentially with distance. This results in a final answer of 0.37 \u00d7 10^14 cm\u2043\u00b3, which is option (a)."
+    },
+    {
+        "question_id": "017",
+        "latency": 36.622766733169556,
+        "response": "The question is about finding the value of $E_{C}-E_{F n}$, which can be calculated using the equation:\n\n$$E_{C}-E_{F}=kT\\ln\\left(\\frac{N_{C}}{n}\\right)$$\n\nSubstituting the values given in the problem, we get:\n\n$$200=kT\\ln(0.5)=218$$\n\nHence, the closest approximation of $E_C-E_F$ is 218 meV."
+    },
+    {
+        "question_id": "018",
+        "latency": 23.462002992630005,
+        "response": "The output voltage V0 is found by solving for the ratio of drain currents, which involves dividing the mobility of holes (40 cm\u00b2/Ns) by the mobility of electrons (300 cm\u00b2/Ns). This results in a smaller ratio, so V0 is less than 2V."
+    },
+    {
+        "question_id": "019",
+        "latency": 11.014106750488281,
+        "response": "The solution matches the given conditions because A0 = 0 and A1 = A3, while A2 = 1."
+    },
+    {
+        "question_id": "020",
+        "latency": 7.684818744659424,
+        "response": "The MOSFETs' steady-state voltages are given by their threshold voltage ratios."
+    },
+    {
+        "question_id": "021",
+        "latency": 16.246989488601685,
+        "response": "The solution explains that point A (the intersection of G(s) and Nyquist plot) will be at -1.6, which means there are 2 poles (N) and no zeros (P) in the closed-loop transfer function, hence the answer is 2."
+    },
+    {
+        "question_id": "022",
+        "latency": 20.574045181274414,
+        "response": "The root-locus plot shows 5 diverging branches from a common point. Since there must be as many open-loop poles as there are branches, it can only be achieved if there is one pole at that point. Therefore, option (a) G(s) = $\\frac{1}{(s+1)^5}$ satisfies this condition, making it the correct transfer function."
+    },
+    {
+        "question_id": "023",
+        "latency": 20.190845012664795,
+        "response": "The solution explains that:\n\n* Statement I (the system being a pure delay system) is incorrect because the given frequency response is not a constant, but rather a constant magnitude.\n* Statement II (the output power spectral density equal to the input power spectral density) is correct because the given frequency response has constant magnitude."
+    },
+    {
+        "question_id": "024",
+        "latency": 9.35871696472168,
+        "response": "The displacement current (in Amperes) through the capacitor is $2 \\sin (t + \u03c0)$."
+    },
+    {
+        "question_id": "025",
+        "latency": 29.28923463821411,
+        "response": "The solution explains that the PDE is satisfied when \u03be and \u03b7 are related as \u221aa and \u221ab, respectively. The given PDE requires a term like e^(\u03bex+\u03b7y) to satisfy both the x\u00b2 and y\u00b2 terms simultaneously. This requires a precise balance of \u03be\u00b2 and \u03b7\u00b2 in order to cancel out the terms and leave only the original function f(x,y)."
+    },
+    {
+        "question_id": "026",
+        "latency": 17.007248640060425,
+        "response": "The circuit is a high-pass filter because the gain decreases as frequency increases (i.e., it passes higher frequencies). The 3 dB frequency corresponds to the cutoff frequency of $1000 rad/s$, making options (a) and (d) incorrect. Options (b) and (c) are correct."
+    },
+    {
+        "question_id": "027",
+        "latency": 7.812209844589233,
+        "response": "The solutions B and C are correct because they produce the original expression $x+y z$ when simplifying the expressions."
+    },
+    {
+        "question_id": "028",
+        "latency": 28.11984920501709,
+        "response": "The solution explains that statement (a) is incorrect because noise margins depend on transistor parameters and sizing, so they're not always equal.\n\nStatement (b) is also incorrect since dynamic power consumption during switching is non-zero due to capacitive leading stages.\n\nStatements (c) and (d) are correct.\n\nIn fewer words: Statement (a) is wrong, statement (b) is wrong, statements (c) and (d) are right."
+    },
+    {
+        "question_id": "029",
+        "latency": 13.181983709335327,
+        "response": "The entropy of X is greater than that of Y, so options (a), (b), and (d) are true."
+    },
+    {
+        "question_id": "030",
+        "latency": 12.066222429275513,
+        "response": "The solution is that options (a) and (c) satisfy the given wave equation because they can be written as a sum of two terms, each representing a wave propagating in opposite directions."
+    },
+    {
+        "question_id": "031",
+        "latency": 10.981904983520508,
+        "response": "The solution is explaining that the mean number of wickets taken by the bowler in a match is 4, as it's the average of the 50th and 51st values (both being equal)."
+    },
+    {
+        "question_id": "032",
+        "latency": 19.66535520553589,
+        "response": "The contour C is closed and simply connected, so residues at poles are integrated over it. Here, the pole at z=-1 has a residue of $\\frac{2^{-1}}{(-1)-1}=2$ associated with the contour. Thus, the integral becomes 2 times i pi A= -i/2=-0.5."
+    },
+    {
+        "question_id": "033",
+        "latency": 30.204209327697754,
+        "response": "The solution explains that:\n\n`y(t)` is equal to the convolution of `x1(t)` and `x2(t)`, which can be represented as a Laplace transform. The solution shows that `y(t)` equals `\\frac{1-\\mathrm{e}^{-2 s}}{\\mathrm{~s}(\\mathrm{~s}+1)}` in the Laplace domain.\n\nThe final answer is 0, because as `t` approaches infinity, `y(t)` approaches zero."
+    },
+    {
+        "question_id": "034",
+        "latency": 25.18384599685669,
+        "response": "The solution explains that:\n\nFor V_G = 4V, Q_IN is found by subtracting the oxide capacitance per unit area from the inversion charge density at V_G = 2V.\n\nThis results in a net increase in inversion charge density of -5.6 \u03bcC/cm\u00b2 (rounded off to one decimal place)."
+    },
+    {
+        "question_id": "035",
+        "latency": 16.673306703567505,
+        "response": "The solution explains that the raw data rate is calculated by multiplying the symbol stream rate (1M symbols/second) by a factor depending on the modulation scheme. For QPSK, it's 2 bits/symbol, while for 16-QAM, it's 4 bits/symbol."
+    },
+    {
+        "question_id": "036",
+        "latency": 17.223459482192993,
+        "response": "The solution finds the minimum by taking derivatives and determining when the function reaches its maximum. Since it's a maximum on the interval [1,e], it must be a minimum instead. The answer is 2, which lies within [1,e]."
+    },
+    {
+        "question_id": "037",
+        "latency": 22.210179328918457,
+        "response": "The solution is explaining that since $A$ is a linear combination of projections onto $v_1$ and $v_2$, its eigenvalues are the same as those projections' smallest eigenvalue ($\\alpha, \\beta, 0$)."
+    },
+    {
+        "question_id": "038",
+        "latency": 18.961730480194092,
+        "response": "The solution breaks down the impedance equation into two parts: one that approaches the resistance at low frequencies and another that becomes negligible at high frequencies. Since both resistances equal 5 k\u03a9, it simplifies to just R\u2081=2 k\u03a9 and R\u2082=3 k\u03a9."
+    },
+    {
+        "question_id": "039",
+        "latency": 11.207774639129639,
+        "response": "The circuit element is an inductor of 1 H, as it's mentioned that \"Z = (1+j\u03c9L) => L = 1\" in the solution."
+    },
+    {
+        "question_id": "040",
+        "latency": 22.52168345451355,
+        "response": "The solution explains that the maximum drain-to-source current (I_D_max) is calculated by considering the transistor in triode region, where VGS=3V and VDS=1V. The calculation shows that I_D_max = 15 mA."
+    },
+    {
+        "question_id": "041",
+        "latency": 18.391441822052002,
+        "response": "The solution is explaining that the maximum and minimum values of the capacitor voltage \u0394Vc are equal to each other, i.e., Vc_max = Vc_min, but since we don't have enough information about Vc_min and Vc_max, it can't be determined. The circuit diagram shows a simple RC circuit with OPAMP configuration and input voltage Vo=-12V."
+    },
+    {
+        "question_id": "042",
+        "latency": 43.750866174697876,
+        "response": "Here's a concise explanation of the solution:\n\nThe circuit is an ideal OPAMP with a gain transfer function. The Bode plot shows that the gain decreases by 3 dB, from 12 to 9. This means that the maximum gain is approximately 4.\n\nSince $R_{2} = 3 R_{1}$ and $A_{\\max} \\simeq 4$, we can find the value of $R_{1}$ and $C$. The result shows that $C = 1 \\mu F$ and $R_{1} = 3 k \\Omega$."
+    },
+    {
+        "question_id": "043",
+        "latency": 9.21809196472168,
+        "response": "The JK flip-flop (FF) changes state twice, resulting in an output frequency of f0/2 and a duty cycle of 50%."
+    },
+    {
+        "question_id": "044",
+        "latency": 22.31414484977722,
+        "response": "The solution explains that $p(s)$ has all its roots on the imaginary axis when $K>-4$ and $K<9/4$, which is option (a). The condition $10-\\frac{4(4+k)}{\\sqrt{5}/2}>0$ ensures that the polynomial's fourth root lies on the imaginary axis."
+    },
+    {
+        "question_id": "045",
+        "latency": 23.21388554573059,
+        "response": "The solution explains which values of c and d make the given series converge or diverge. It uses the ratio test to determine convergence or divergence.\n\nIn summary:\n\n* (b) and (d) converge\n* (a) converges (p-test)\n* (c) diverges"
+    },
+    {
+        "question_id": "046",
+        "latency": 15.64877462387085,
+        "response": "The system S3 is definitely NOT LTI because it has a time-varying component. The output at t0 depends on its previous outputs, which makes it non-linear."
+    },
+    {
+        "question_id": "047",
+        "latency": 20.70725178718567,
+        "response": "Here's a concise explanation:\n\nAt equilibrium, the density of electrons and holes are equal ($a$). The correct statement is that the total current is spatially constant in a two-terminal electronic device in dark under steady-state conditions ($c$), but option $B$ is incorrect because Collector region is generally lightly doped than Base region in a BJ T. Also, mobility of electrons decreases with temperature above 300K in Silicon ($d`)."
+    },
+    {
+        "question_id": "048",
+        "latency": 19.017627954483032,
+        "response": "The solution can be simplified by stating that:\n\n(a) Transition probabilities for state transitions are equal.\n\n(b) Same as (a), but with different gate labels.\n\n(c) The sum of probabilities from all gates is equal to 1.\n\n(d) Same as (c), but with different gate labels."
+    },
+    {
+        "question_id": "049",
+        "latency": 6.338889122009277,
+        "response": "The solution is: \"Once you have a NOT gate, you can easily implement all other gates.\""
+    },
+    {
+        "question_id": "050",
+        "latency": 34.57639980316162,
+        "response": "The solution explains that:\n\n* Statements (a) and (b) are true, while statements (c) and (d) are false.\n* The percentage peak overshoot of both systems is the same because it depends only on the damping factor $\\xi$, which is equal for both systems.\n* The steady-state value of the two systems is not the same because their transfer functions are different."
+    },
+    {
+        "question_id": "051",
+        "latency": 24.911051511764526,
+        "response": "The solution explains that the de-emphasis filter network is equal to the inverse square of the pre-emphasis filter's frequency response. The two values, R and C, are chosen such that their product equals the reciprocal of the pre-emphasis filter's resonant frequency \u03c90. In this case, only (a) satisfies this condition."
+    },
+    {
+        "question_id": "052",
+        "latency": 22.62147617340088,
+        "response": "The solution explains that the TM waves which can propagate in the waveguide are options A and C because they have a frequency greater than the cut-off frequency (fc). The cut-off frequency fc is calculated as 1.5 \u00d7 10^14 Hz, so options A and C (6 \u00d7 10^15 Hz and 8 \u00d7 10^14 Hz) satisfy this condition."
+    },
+    {
+        "question_id": "053",
+        "latency": 6.841048002243042,
+        "response": "The integral evaluates to 0 by substituting limits, then integrating and evaluating."
+    },
+    {
+        "question_id": "054",
+        "latency": 16.91053533554077,
+        "response": "The solution explains that when R is varied, it finds equivalent resistance values for two given current-voltage pairs (0 mA and 5 V, -4 mA and 4 V). It calculates the resistance value corresponding to each pair separately."
+    },
+    {
+        "question_id": "055",
+        "latency": 16.41055178642273,
+        "response": "The solution computes the DFT of the original vector x, resulting in a new vector y. The value of y[0] is then found by computing the DFT again, yielding a value of 8."
+    },
+    {
+        "question_id": "056",
+        "latency": 29.032660484313965,
+        "response": "The solution simplifies the given continuity equation by reducing it to a simple form, which can be solved using a boundary condition. The solution is then calculated using an equation for electron diffusion current density, resulting in a final answer of 0.59 mA/cm\u00b2."
+    },
+    {
+        "question_id": "057",
+        "latency": 20.616597890853882,
+        "response": "The solution explains that when the diode is ON, it becomes a current source and its small signal gain is halved, whereas when the diode is OFF, it becomes an open circuit and its small signal gain is tripled. The ratio of these two gains is 0.75."
+    },
+    {
+        "question_id": "058",
+        "latency": 10.708359003067017,
+        "response": "The solution uses a series of voltage division steps to find the output voltage V0, which is calculated as -0.5V."
+    },
+    {
+        "question_id": "059",
+        "latency": 6.815374851226807,
+        "response": "The solution finds the ratio of small-signal voltage at node A to small-signal voltage at node B."
+    },
+    {
+        "question_id": "060",
+        "latency": 25.273715496063232,
+        "response": "The solution is finding the steady-state error due to a unit step disturbance. It's calculated by taking the limit as `s` approaches 0 of the transfer function relating the error signal `e(t)` = `r(t)` - `y(t)`. Since `r(t)` = 0, the numerator becomes 0, leaving only the term `-1/10`, which is rounded off to 2 decimal places to become `-0.1`."
+    },
+    {
+        "question_id": "061",
+        "latency": 18.74747133255005,
+        "response": "The channel capacity is maximized when \u03b1 = 0 or \u03b1 = 1, so it's rounded off to two decimal places as 0.50."
+    },
+    {
+        "question_id": "062",
+        "latency": 16.809986352920532,
+        "response": "The correct decoding probability for the (7,4) Hamming code with a 0.1 bit error probability is approximately 0.85, which means that more than 99% of transmitted codewords are correctly decoded given at most one bit error."
+    },
+    {
+        "question_id": "063",
+        "latency": 29.766281127929688,
+        "response": "The solution calculates the probability of error (Pe) for a channel with two possible symbols ($X_A$ and $X_B$). It finds the threshold voltage ($V_{th}$) by comparing the two conditional probability density functions. The Pe is then calculated as the sum of errors when transmitting each symbol, resulting in 0.367."
+    },
+    {
+        "question_id": "064",
+        "latency": 78.5176362991333,
+        "response": "Here's an explanation of the solution in fewer words:\n\nThe goal is to minimize the mean square quantization error. Two choices are considered: one where x<0 maps to \u03b1 and others to \u03b2, and vice versa.\n\nFor x<0, f(x) = (1/4)x + 1/2, and for x\u22650, f(x) = 0.5.\n\nMSQ is the average of the squared differences between the input signal and its quantized version.\n\nTo minimize MSQ, NQ is calculated by integrating the squared difference between the signal and the quantized version.\n\nFor x<0, NQ = (1/2)(x - \u03b2)^2 dx.\n\nBy minimizing NQ, it's found that \u03b2 = -2/3.\n\nSimilarly for \u03b1:\n\nMSQ = [(1 - \u03b1)^2/(2) dx.\n\nBy minimizing MSQ, it's found that \u03b1 = 1/2.\n\nSo, the answer is: \u03b1 - \u03b2 = (1/2) - (-2/3) = 7/6."
+    },
+    {
+        "question_id": "065",
+        "latency": 21.753533124923706,
+        "response": "The solution calculates the electric charge enclosed within a cubical region by integrating the electric displacement density vector. It shows that the charge density vector is proportional to x^2 and y^2, so the total charge enclosed is the sum of these components' contributions."
+    }
+]

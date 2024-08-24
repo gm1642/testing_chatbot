@@ -10,7 +10,7 @@ with open('data/questions.json', 'r') as f:
 # Generate summaries and add them to each question
 for pair in qa_pairs:
     if "summary" not in pair:  # Only generate if the summary doesn't exist
-        pair["summary"] = ollama.generate(model="llama3:8b-instruct-q2_K", prompt=f"Summarize the following question in one sentence: {pair['question_text']}")['response'].strip()
+        pair["summary"] = ollama.generate(model="llama3:8b-instruct-q2_K ", prompt=f"Summarize the following question in one to two lines: {pair['question_text']}")['response'].strip()
 
 # Save the updated data back to the JSON file
 with open('data/questions.json', 'w') as f:
@@ -26,8 +26,9 @@ question_dict = {pair["summary"]: pair for pair in qa_pairs}  # Map summary to f
 def fetch_full_question_and_solution(selected_summary):
     pair = question_dict[selected_summary]
     full_question = f"Full Question: {pair['question_text']}"
-    solution_text = pair["solution_text"]
     solution_links = pair["solution_image"]
+    citations = pair["source"]
+    solution_text = "Solution: "+pair["solution_text"]+ f"\n\nSource: {citations}"
     for i, img in enumerate(solution_links):
         solution_text = solution_text.replace(f"[image{i+1}]", f"<img src='{img}' alt='Solution Image {i+1}'>")
     return f"{full_question}\n\n{solution_text}", ""
