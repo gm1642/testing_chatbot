@@ -9,16 +9,11 @@ ollama pull llama3:8b-instruct-q2_K
 `
 ### Step 3: Install Ollama Python library
 `pip install ollama`
-## How to Setup a Local Vector Database Instance with Docker
-### Step 1: Download and install Docker
-### Step 2: Start up the Docker container with a Weaviate instance
-`
-docker run -p 8080:8080 -p 50051:50051 cr.weaviate.io/semitechnologies/weaviate:1.24.8
-`
-### Step 3: Install the Weaviate Python client
-`
-pip install -U weaviate-client
-`
-### finally run app2.py
+
+
+
+### finally run app4.py 
 ### navigate to
 ` http://127.0.0.1:7860/ `
+
+## to get saperate aptitude and technical questions runn app5.py
